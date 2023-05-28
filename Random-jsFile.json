@@ -1,0 +1,226 @@
+{
+  "ProjectID": 1,
+  "Name": "Random",
+  "Packets": [
+    {
+      "PacketID": 1,
+      "Title": "random",
+      "Resume": null,
+      "Selected": true,
+      "Editable": false,
+      "ParentID": null,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 2,
+      "Title": "Generating random numbers",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 3,
+      "Title": "Generating random sequences",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 4,
+      "Title": "Controlling the random number generator",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 5,
+      "Title": "Probability distributions",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 7,
+      "Title": "random() function",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 8,
+      "Title": "randint(a, b) function",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 9,
+      "Title": "randrange(start, stop, step) function",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 10,
+      "Title": "uniform(a, b) function",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 11,
+      "Title": "shuffle(sequence) function",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 12,
+      "Title": "sample(population, k) function",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 13,
+      "Title": "seed(a=None) function",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 14,
+      "Title": "getstate() function",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 15,
+      "Title": "setstate(state) function",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 16,
+      "Title": "random.gauss(mu, sigma) function",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 17,
+      "Title": "random.expovariate(lambd) function",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 18,
+      "Title": "random.betavariate(alpha, beta) function",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 19,
+      "Title": "random.gammavariate(alpha, beta) function",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 20,
+      "Title": "random.triangular(low, high, mode) function",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    }
+  ],
+  "NotesCollection": [
+    {
+      "NotesCollectionID": 1,
+      "Title": "Default Collection",
+      "Selected": true,
+      "Editable": false,
+      "ProjectFK": 1,
+      "Project": null,
+      "Note": []
+    }
+  ]
+}

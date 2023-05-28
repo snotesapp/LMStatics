@@ -1,0 +1,116 @@
+{
+  "ProjectID": 1,
+  "Name": "Zipfile Module",
+  "Packets": [
+    {
+      "PacketID": 1,
+      "Title": "Zipfile Module",
+      "Resume": null,
+      "Selected": true,
+      "Editable": false,
+      "ParentID": null,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 2,
+      "Title": "Zip File Creation",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 3,
+      "Title": "Zip File Extraction",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 4,
+      "Title": "Zip File Information Retrieval",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 5,
+      "Title": "Zip File Modification",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 6,
+      "Title": "Zip File Compression",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 7,
+      "Title": "Zip File Encryption",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 8,
+      "Title": "Zip File Multi-Volume Support",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 9,
+      "Title": "Zip File Streaming",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    }
+  ],
+  "NotesCollection": [
+    {
+      "NotesCollectionID": 1,
+      "Title": "Default Collection",
+      "Selected": true,
+      "Editable": false,
+      "ProjectFK": 1,
+      "Project": null,
+      "Note": []
+    }
+  ]
+}

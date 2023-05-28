@@ -1,0 +1,391 @@
+{
+  "ProjectID": 1,
+  "Name": "Sentences",
+  "Packets": [
+    {
+      "PacketID": 1,
+      "Title": "Sentences",
+      "Resume": null,
+      "Selected": true,
+      "Editable": false,
+      "ParentID": null,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 2,
+      "Title": "Simple sentence",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 3,
+      "Title": "Compound sentence",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 4,
+      "Title": "Complex sentence",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 5,
+      "Title": "Compound-complex sentence",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 6,
+      "Title": "Imperative sentence",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 7,
+      "Title": "Interrogative sentence",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 8,
+      "Title": "Exclamatory sentence",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 9,
+      "Title": "Subject-verb sentence",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 10,
+      "Title": "Subject-verb-object sentence",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 11,
+      "Title": "Subject-verb-complement sentence",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 12,
+      "Title": "Subject-verb-adverb sentence",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 13,
+      "Title": "Subject-verb-adjective sentence",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 14,
+      "Title": "Coordinating conjunctions",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 15,
+      "Title": "Semicolons",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 16,
+      "Title": "Conjunctive adverbs",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 17,
+      "Title": "Adverbial clause",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 18,
+      "Title": "Relative clause",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 19,
+      "Title": "Noun clause",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 20,
+      "Title": "Adjective clause",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 21,
+      "Title": "Two independent clauses and one or more dependent clauses",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 22,
+      "Title": "Two or more independent clauses, each with one or more dependent clauses",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 23,
+      "Title": "A dependent clause containing two or more independent clauses",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 24,
+      "Title": "Affirmative imperative sentence",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 25,
+      "Title": "Negative imperative sentence",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 26,
+      "Title": "Yes/no questions",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 27,
+      "Title": "Wh- questions",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 28,
+      "Title": "Tag questions",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 29,
+      "Title": "Choice questions",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 30,
+      "Title": "Indirect questions",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 31,
+      "Title": "Exclamatory sentence with a subject and a verb",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 32,
+      "Title": "Exclamatory sentence with an interjection",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 33,
+      "Title": "Exclamatory sentence with a verb and an object",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 34,
+      "Title": "Exclamatory sentence with an auxiliary verb",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    }
+  ],
+  "NotesCollection": [
+    {
+      "NotesCollectionID": 1,
+      "Title": "Default Collection",
+      "Selected": true,
+      "Editable": false,
+      "ProjectFK": 1,
+      "Project": null,
+      "Note": []
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "ProjectID": 1,
+  "Name": "BeautifulSoup ",
+  "Packets": [
+    {
+      "PacketID": 1,
+      "Title": "BeautifulSoup ",
+      "Resume": null,
+      "Selected": true,
+      "Editable": false,
+      "ParentID": null,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 2,
+      "Title": "Searching and filtering methods",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 3,
+      "Title": "Navigation methods",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 4,
+      "Title": "Modifying methods",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 5,
+      "Title": "Accessing element attributes ",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 6,
+      "Title": "Accessing element contents",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 7,
+      "Title": "find()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 8,
+      "Title": "find_all()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 9,
+      "Title": "select()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 10,
+      "Title": "has_attr()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 11,
+      "Title": "has_class()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 12,
+      "Title": "has_id()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 13,
+      "Title": "parent()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 14,
+      "Title": "parents()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 15,
+      "Title": "previous_sibling()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 16,
+      "Title": "next_sibling()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 17,
+      "Title": "descendants()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 18,
+      "Title": "append()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 19,
+      "Title": "insert()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 20,
+      "Title": "replace_with()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 21,
+      "Title": "extract()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 22,
+      "Title": "unwrap()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 23,
+      "Title": "get()",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 24,
+      "Title": "name",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 25,
+      "Title": "attrs",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 26,
+      "Title": "text",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 27,
+      "Title": "string",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 28,
+      "Title": "contents",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    }
+  ],
+  "NotesCollection": [
+    {
+      "NotesCollectionID": 1,
+      "Title": "Default Collection",
+      "Selected": true,
+      "Editable": false,
+      "ProjectFK": 1,
+      "Project": null,
+      "Note": []
+    }
+  ]
+}

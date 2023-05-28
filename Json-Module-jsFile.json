@@ -1,0 +1,193 @@
+{
+  "ProjectID": 1,
+  "Name": "Json Module",
+  "Packets": [
+    {
+      "PacketID": 1,
+      "Title": " Json Module",
+      "Resume": null,
+      "Selected": true,
+      "Editable": false,
+      "ParentID": null,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 2,
+      "Title": "Encoding and Decoding",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 3,
+      "Title": "Pretty Printing",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 4,
+      "Title": "Streaming",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 6,
+      "Title": "Validation",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 7,
+      "Title": "Serialization",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 8,
+      "Title": "Deserialization",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 9,
+      "Title": "Customization",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 10,
+      "Title": "Incremental Encoding",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 11,
+      "Title": "Incremental Decoding",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 12,
+      "Title": "Reading and Writing to Files",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 13,
+      "Title": "Customization",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 14,
+      "Title": "Schema Validation",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 15,
+      "Title": "Custom Validation",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 16,
+      "Title": "Error Reporting",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 17,
+      "Title": "Performance",
+      "Resume": null,
+      "Selected": false,
+      "Editable": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    }
+  ],
+  "NotesCollection": [
+    {
+      "NotesCollectionID": 1,
+      "Title": "Default Collection",
+      "Selected": true,
+      "Editable": false,
+      "ProjectFK": 1,
+      "Project": null,
+      "Note": []
+    }
+  ]
+}
