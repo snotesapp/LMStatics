@@ -1,0 +1,2316 @@
+{
+  "ProjectID": 1,
+  "Name": "TypeScript",
+  "Packets": [
+    {
+      "PacketID": 1,
+      "Title": "TypeScript",
+      "Resume": null,
+      "Selected": true,
+      "ParentID": null,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 2,
+      "Title": "Basic JavaScript",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 3,
+      "Title": "Static Typing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 4,
+      "Title": "Type Inference",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 5,
+      "Title": "Type Annotations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 6,
+      "Title": "Interfaces",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 7,
+      "Title": "Classes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 8,
+      "Title": "Generics",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 9,
+      "Title": "Modules and Namespaces",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 10,
+      "Title": "Decorators",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 11,
+      "Title": "Compiler Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 12,
+      "Title": "Tooling and IDE Support",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 13,
+      "Title": "JavaScript Interoperability",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 14,
+      "Title": "Type Inference",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 15,
+      "Title": "Basic Type Inference",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 14,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 16,
+      "Title": "Type Widening",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 14,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 17,
+      "Title": "Type Narrowing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 14,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 18,
+      "Title": "Type Inference with Arrays and Iterables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 14,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 19,
+      "Title": "Type Compatibility and Inference",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 20,
+      "Title": "Structural Typing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 19,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 21,
+      "Title": "Contextual Typing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 19,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 22,
+      "Title": "Type Inference for Functions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 19,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 23,
+      "Title": "Type Inference with Overloads",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 19,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 24,
+      "Title": "Advanced Type Inference",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 25,
+      "Title": "Union and Intersection Types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 24,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 26,
+      "Title": "Type Inference with Generics",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 24,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 27,
+      "Title": "Inference with Conditional Types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 24,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 28,
+      "Title": "Type Inference with Polymorphic This Types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 24,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 29,
+      "Title": "Type Inference Pitfalls and Annotations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 30,
+      "Title": "Avoiding Implicit Any",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 29,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 31,
+      "Title": "Using Type Annotations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 29,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 32,
+      "Title": "Basic Type Annotations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 33,
+      "Title": "Primitive Types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 32,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 34,
+      "Title": "Arrays",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 32,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 35,
+      "Title": "Tuples",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 32,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 36,
+      "Title": "Object Types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 32,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 37,
+      "Title": "Functions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 32,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 38,
+      "Title": "Type Assertions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 32,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 39,
+      "Title": "Advanced Type Annotations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 40,
+      "Title": "Union Types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 39,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 41,
+      "Title": "Intersection Types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 39,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 42,
+      "Title": "Type Aliases",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 39,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 43,
+      "Title": "Literal Types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 39,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 44,
+      "Title": "Enumerations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 39,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 45,
+      "Title": "Type Guards",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 39,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 46,
+      "Title": "Type Predicates",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 39,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 47,
+      "Title": "Index Signatures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 39,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 48,
+      "Title": "Type Annotations in Complex Structures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 49,
+      "Title": "Function Signatures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 48,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 50,
+      "Title": "Class Annotations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 48,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 51,
+      "Title": "Interfaces",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 48,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 52,
+      "Title": "Generics",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 48,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 53,
+      "Title": "Module and Namespace Annotations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 48,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 54,
+      "Title": "Type Merging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 48,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 55,
+      "Title": "Advanced Concepts in Type Annotations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 56,
+      "Title": "Conditional Types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 55,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 57,
+      "Title": "Mapped Types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 55,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 58,
+      "Title": "Recursive Types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 55,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 59,
+      "Title": "Type Inference and Type Compatibility",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 55,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 60,
+      "Title": "Declaration Files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 55,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 61,
+      "Title": "Creating Interfaces",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 62,
+      "Title": "Defining interface syntax",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 63,
+      "Title": "Optional properties",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 64,
+      "Title": "Readonly properties",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 65,
+      "Title": "Implementing Interfaces",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 66,
+      "Title": "Class implementation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 65,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 67,
+      "Title": "Multiple interface implementation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 65,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 68,
+      "Title": "Extending Interfaces",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 69,
+      "Title": "Interface inheritance",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 68,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 70,
+      "Title": "Multiple interface inheritance",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 68,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 71,
+      "Title": "Function Types and Call Signatures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 72,
+      "Title": "Function types in interfaces",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 71,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 73,
+      "Title": "Call signatures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 71,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 74,
+      "Title": "Index Signatures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 75,
+      "Title": "Indexable properties",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 74,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 76,
+      "Title": "String and number index signatures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 74,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 77,
+      "Title": "Interface Compatibility",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 78,
+      "Title": "Duck typing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 77,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 79,
+      "Title": "Type assertions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 77,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 80,
+      "Title": "Class Definition",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 81,
+      "Title": "Class Syntax",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 80,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 82,
+      "Title": "Constructor",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 80,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 83,
+      "Title": "Properties",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 80,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 84,
+      "Title": "Methods",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 80,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 85,
+      "Title": "Static Members",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 80,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 86,
+      "Title": "Inheritance and Polymorphism",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 87,
+      "Title": "Inheritance",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 86,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 88,
+      "Title": "Method Overriding",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 86,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 89,
+      "Title": "Abstract Classes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 86,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 90,
+      "Title": "Polymorphism",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 86,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 91,
+      "Title": "Access Modifiers and Encapsulation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 92,
+      "Title": "Public Access",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 91,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 93,
+      "Title": "Private Access",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 91,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 94,
+      "Title": "Protected Access",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 91,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 95,
+      "Title": "Encapsulation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 91,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 99,
+      "Title": "Class Relationships and Composition",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 100,
+      "Title": "Association",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 99,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 101,
+      "Title": "Composition",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 99,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 102,
+      "Title": "Introduction to Generics",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 103,
+      "Title": "Generic Functions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 104,
+      "Title": "Generic Classes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 105,
+      "Title": "Generic Constraints and Bounds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 106,
+      "Title": "Type Inference with Generics",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 107,
+      "Title": "Generic Utility Types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 108,
+      "Title": "Advanced Generic Techniques",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 109,
+      "Title": "Understanding the need for generics in creating reusable components",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 102,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 110,
+      "Title": "Exploring the benefits of type safety and code reusability through generics",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 102,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 111,
+      "Title": "Differentiating between generics and using the \u0027any\u0027 type",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 102,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 112,
+      "Title": "Writing generic functions that can operate on a range of input types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 103,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 113,
+      "Title": "Specifying type parameters for generic functions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 103,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 114,
+      "Title": "Inferring type parameters based on input arguments",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 103,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 115,
+      "Title": "Using constraints to limit the types that can be used as type parameters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 103,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 116,
+      "Title": "Creating generic classes that can work with various types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 104,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 117,
+      "Title": "Defining and implementing generic interfaces for classes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 104,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 118,
+      "Title": "Utilizing type parameters within the class to enforce type safety",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 104,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 119,
+      "Title": "Handling scenarios where the type parameter may be optional or unknown",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 104,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 120,
+      "Title": "Constraining type parameters to specific types or interfaces",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 105,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 121,
+      "Title": "Using the \u0027extends\u0027 keyword to enforce type bounds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 105,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 122,
+      "Title": "Implementing multiple constraints on type parameters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 105,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 123,
+      "Title": "Understanding the relationship between generic constraints and function overloads",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 105,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 127,
+      "Title": "Modules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 128,
+      "Title": "Module Creation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 129,
+      "Title": "Importing and Exporting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 130,
+      "Title": "Default Exports and Named Exports",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 131,
+      "Title": "Module Resolution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 132,
+      "Title": "Namespaces",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 133,
+      "Title": "Namespace Creation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 132,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 134,
+      "Title": "Nested Namespaces",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 132,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 135,
+      "Title": "Aliases and Importing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 132,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 136,
+      "Title": "Namespace Merging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 132,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 137,
+      "Title": "Module and Namespace Interactions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 138,
+      "Title": "Namespace Imports and Exports",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 137,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 139,
+      "Title": "Namespace and Module Compatibility",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 137,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 140,
+      "Title": "Using External Libraries",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 137,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 141,
+      "Title": "Declaration Files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 137,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 142,
+      "Title": "Decorators Basics",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 143,
+      "Title": "Decorator Syntax",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 142,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 144,
+      "Title": "Decorator Factories",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 142,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 145,
+      "Title": "Class Decorators",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 146,
+      "Title": "Basic Class Decorators",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 145,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 147,
+      "Title": "Class Decorator Composition",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 145,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 148,
+      "Title": "Method Decorators",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 149,
+      "Title": "Basic Method Decorators",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 148,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 150,
+      "Title": "Method Decorator Composition",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 148,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 151,
+      "Title": "Property Decorators",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 152,
+      "Title": "Basic Property Decorators",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 151,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 153,
+      "Title": "Property Decorator Composition",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 151,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 154,
+      "Title": "Parameter Decorators",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 155,
+      "Title": "Basic Parameter Decorators",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 154,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 156,
+      "Title": "Parameter Decorator Composition",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 154,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 157,
+      "Title": "Decorator Execution Order",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 158,
+      "Title": "Decorator Evaluation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 157,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 159,
+      "Title": "Decorator Application Order",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 157,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 160,
+      "Title": "Decorator Use Cases",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 161,
+      "Title": "Logging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 160,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 162,
+      "Title": "Validation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 160,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 163,
+      "Title": "Memoization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 160,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 164,
+      "Title": "Dependency Injection",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 160,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 165,
+      "Title": "Compiler Options",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 11,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 166,
+      "Title": "Target",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 165,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 167,
+      "Title": "Module",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 165,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 168,
+      "Title": "Strictness",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 165,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 169,
+      "Title": "OutDir",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 165,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 170,
+      "Title": "SourceMap",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 165,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 171,
+      "Title": "AllowJs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 165,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 172,
+      "Title": "AllowSyntheticDefaultImports",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 165,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 173,
+      "Title": "ExperimentalDecorators",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 165,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 174,
+      "Title": "tsconfig.json File",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 11,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 175,
+      "Title": "File Structure",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 174,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 176,
+      "Title": "Project Setup",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 174,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 177,
+      "Title": "Module Resolution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 174,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 178,
+      "Title": "Path Mapping",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 11,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 181,
+      "Title": "Declaration Files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 11,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 182,
+      "Title": "Declaration Option",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 181,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 183,
+      "Title": "Ambient Declarations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 181,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 184,
+      "Title": "Custom Compiler Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 11,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 185,
+      "Title": "Customizing Options",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 184,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 186,
+      "Title": "Project References",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 184,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 187,
+      "Title": "Using tsconfig.json with Build Tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 11,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 188,
+      "Title": "Integrating with Build Tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 187,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 189,
+      "Title": "Watch Mode",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 187,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 190,
+      "Title": "Compiler API",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 11,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 191,
+      "Title": "Compiler API Basics",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 190,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 192,
+      "Title": "Custom Transformations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 190,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 193,
+      "Title": "Editor/IDE Setup",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 194,
+      "Title": "Choosing an IDE",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 193,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 195,
+      "Title": "Installing TypeScript",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 193,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 196,
+      "Title": "IDE Extensions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 193,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 197,
+      "Title": "Workspace Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 193,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 198,
+      "Title": "Language Support",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 199,
+      "Title": "Code Completion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 198,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 200,
+      "Title": "Error Checking",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 198,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 201,
+      "Title": "Quick Fixes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 198,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 202,
+      "Title": "Documentation Lookup",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 198,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 203,
+      "Title": "Navigation and Refactoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 204,
+      "Title": "Go to Definition",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 203,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 205,
+      "Title": "Find References",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 203,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 206,
+      "Title": "Rename Symbol",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 203,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 207,
+      "Title": "Extract Method/Variable",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 203,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 208,
+      "Title": "Debugging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 209,
+      "Title": "Setting Breakpoints",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 208,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 210,
+      "Title": "Stepping Through Code",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 208,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 211,
+      "Title": "Watch Expressions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 208,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 212,
+      "Title": "Debugging Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 208,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 213,
+      "Title": "Version Control Integration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 214,
+      "Title": "Git Integration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 213,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 215,
+      "Title": "Branching and Merging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 213,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 216,
+      "Title": "Code Review Tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 213,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 217,
+      "Title": "Working with Existing JavaScript Libraries",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 13,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 218,
+      "Title": "Type Definitions and Declaration Files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 13,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 219,
+      "Title": "Calling JavaScript Functions and APIs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 13,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 220,
+      "Title": "Using JavaScript Objects and Prototypes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 13,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 221,
+      "Title": "JavaScript Libraries with TypeScript Support",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 13,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 222,
+      "Title": "Managing TypeScript and JavaScript Interoperability",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 13,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 223,
+      "Title": "Understanding JavaScript modules and how to import them into TypeScript",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 224,
+      "Title": "Using declaration files (.d.ts)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 225,
+      "Title": "Installing and managing JavaScript dependencies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 226,
+      "Title": "Creating declaration files manually",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 218,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 227,
+      "Title": "Using tools like DefinitelyTyped and @types to find pre-existing declaration files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 218,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 228,
+      "Title": "Updating and maintaining declaration files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 218,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 229,
+      "Title": "Understanding how to call JavaScript functions and APIs from TypeScript",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 219,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 230,
+      "Title": "Handling differences in naming conventions, argument order, and return values between JavaScript and TypeScript",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 219,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 231,
+      "Title": "Dealing with optional and variadic arguments in JavaScript functions from TypeScript",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 219,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 232,
+      "Title": "Managing callbacks and handling asynchronous JavaScript operations in TypeScript",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 219,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 233,
+      "Title": "Accessing and manipulating JavaScript objects and prototypes from TypeScript",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 220,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 234,
+      "Title": "Understanding the prototype chain and how inheritance works in JavaScript",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 220,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 235,
+      "Title": "Extending JavaScript objects and prototypes using TypeScript classes and interfaces",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 220,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 236,
+      "Title": "Configuring TypeScript to allow JavaScript files in your project using the \u0022allowJs\u0022 compiler option",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 222,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 237,
+      "Title": "Understanding how TypeScript infers types for JavaScript code and how to provide explicit type annotations when needed",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 222,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 238,
+      "Title": "Resolving conflicts and issues that may arise when using TypeScript and JavaScript code together",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 222,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    }
+  ],
+  "NotesCollection": [
+    {
+      "NotesCollectionID": 1,
+      "Title": "Default Collection",
+      "Selected": true,
+      "ProjectFK": 1,
+      "Project": null,
+      "Note": []
+    }
+  ]
+}
