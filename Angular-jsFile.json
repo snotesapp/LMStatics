@@ -1,0 +1,1796 @@
+{
+  "ProjectID": 1,
+  "Name": "Angular",
+  "Packets": [
+    {
+      "PacketID": 1,
+      "Title": "Angular",
+      "Resume": null,
+      "Selected": true,
+      "ParentID": null,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 2,
+      "Title": "Modules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 3,
+      "Title": "Components",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 4,
+      "Title": "Templates and Directives",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 5,
+      "Title": "Services",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 6,
+      "Title": "Routing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 7,
+      "Title": "Forms",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 8,
+      "Title": "Dependency Injection",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 9,
+      "Title": "Observables and RxJS",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 10,
+      "Title": "Angular CLI",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 12,
+      "Title": "State Management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 13,
+      "Title": "Creating modules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 14,
+      "Title": "Module hierarchy",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 15,
+      "Title": "Lazy loading",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 16,
+      "Title": "Creating shared modules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 17,
+      "Title": "Module organization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 21,
+      "Title": "Component Concepts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 22,
+      "Title": "Component Architecture",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 21,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 23,
+      "Title": "Data Binding and Interpolation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 21,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 24,
+      "Title": "Component Styling and Templating",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 25,
+      "Title": "Template Syntax",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 24,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 26,
+      "Title": "Component Styles",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 24,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 27,
+      "Title": "Component Communication and Interaction",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 28,
+      "Title": "Input and Output Properties",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 27,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 29,
+      "Title": "Component Interaction",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 27,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 30,
+      "Title": "Component Lifecycle",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 27,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 31,
+      "Title": "Component Routing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 27,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 32,
+      "Title": "Templates",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 33,
+      "Title": "Data Binding",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 32,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 34,
+      "Title": "Template Syntax",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 32,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 35,
+      "Title": "Directives",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 32,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 36,
+      "Title": "Template-driven Forms",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 32,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 37,
+      "Title": "Structural Directives",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 38,
+      "Title": "ngIf",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 37,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 39,
+      "Title": "ngFor",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 37,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 40,
+      "Title": "ngSwitch",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 37,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 41,
+      "Title": "Attribute Directives",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 42,
+      "Title": "Built-in Directives",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 41,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 43,
+      "Title": "Custom Directives",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 41,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 44,
+      "Title": "Component Interaction",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 45,
+      "Title": "@Input",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 44,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 46,
+      "Title": "@Output",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 44,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 47,
+      "Title": "ViewChild",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 44,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 48,
+      "Title": "Service Concepts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 49,
+      "Title": "Dependency Injection (DI)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 48,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 50,
+      "Title": "Single Responsibility Principle (SRP)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 48,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 51,
+      "Title": "Reusability and Scalability",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 48,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 52,
+      "Title": "Service Implementation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 53,
+      "Title": "Service Creation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 52,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 54,
+      "Title": "Injectable Decorator",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 52,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 55,
+      "Title": "Service Methods",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 52,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 56,
+      "Title": "Service Properties",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 52,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 57,
+      "Title": "Communication and Data Sharing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 58,
+      "Title": "Input and Output",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 57,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 59,
+      "Title": "Event Emitter",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 57,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 60,
+      "Title": "BehaviorSubject and Observables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 57,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 61,
+      "Title": "Service Dependencies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 57,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 62,
+      "Title": "Testing and Mocking",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 63,
+      "Title": "Unit Testing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 62,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 64,
+      "Title": "Mocking Dependencies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 62,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 65,
+      "Title": "Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 66,
+      "Title": "Route Definition",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 65,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 67,
+      "Title": "Route Parameters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 65,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 68,
+      "Title": "Child Routes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 65,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 69,
+      "Title": "Lazy Loading",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 65,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 70,
+      "Title": "Navigation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 71,
+      "Title": "Router Link",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 70,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 72,
+      "Title": "Programmatically Navigation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 70,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 73,
+      "Title": "Route Guards",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 74,
+      "Title": "CanActivate",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 73,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 75,
+      "Title": "CanDeactivate",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 73,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 76,
+      "Title": "Resolve",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 73,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 77,
+      "Title": "CanLoad",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 73,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 78,
+      "Title": "Route Events",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 79,
+      "Title": "Navigation Start/End",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 78,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 80,
+      "Title": "Route Change Detection",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 78,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 81,
+      "Title": "Template-driven forms",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 82,
+      "Title": "Form controls",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 81,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 83,
+      "Title": "Data binding",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 81,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 84,
+      "Title": "Form validation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 81,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 85,
+      "Title": "Form submission",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 81,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 86,
+      "Title": "Reactive forms",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 87,
+      "Title": "FormGroup and FormControl",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 86,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 88,
+      "Title": "Form validation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 86,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 89,
+      "Title": "Dynamic form controls",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 86,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 90,
+      "Title": "FormArray",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 86,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 91,
+      "Title": "Form validation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 92,
+      "Title": "Built-in validators",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 91,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 93,
+      "Title": "Custom validators",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 91,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 94,
+      "Title": "Cross-field validation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 91,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 95,
+      "Title": "Error handling and feedback",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 91,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 96,
+      "Title": "Form submission and handling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 97,
+      "Title": "Submitting forms",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 96,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 98,
+      "Title": "Reactive form submission",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 96,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 99,
+      "Title": "Resetting forms",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 96,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 100,
+      "Title": "Understanding Dependency Injection",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 101,
+      "Title": "Dependency",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 100,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 103,
+      "Title": "Inversion of Control (IoC)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 100,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 104,
+      "Title": "Implementing Dependency Injection in Angular",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 105,
+      "Title": "Providers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 104,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 106,
+      "Title": "Injectors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 104,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 107,
+      "Title": "Types of Dependencies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 108,
+      "Title": "Services",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 107,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 109,
+      "Title": "Components",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 107,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 110,
+      "Title": "Directives",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 107,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 111,
+      "Title": "Other Dependencies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 107,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 112,
+      "Title": "Dependency Injection Patterns",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 113,
+      "Title": "Constructor Injection",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 112,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 114,
+      "Title": "Property Injection",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 112,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 115,
+      "Title": "Method Injection",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 112,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 116,
+      "Title": "Hierarchical Injectors and Injection Scopes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 117,
+      "Title": "Hierarchical Injectors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 116,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 118,
+      "Title": "Injection Scopes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 116,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 119,
+      "Title": "Observables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 120,
+      "Title": "Creation and Subscription",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 119,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 121,
+      "Title": "Operators",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 119,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 122,
+      "Title": "Subjects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 119,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 123,
+      "Title": "Multicasting and Sharing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 119,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 124,
+      "Title": "Reactive Programming Concepts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 125,
+      "Title": "Streams and Data Flow",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 124,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 126,
+      "Title": "Operators and Pipelines",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 124,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 127,
+      "Title": "Advanced Topics",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 128,
+      "Title": "Error Handling and Retry Strategies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 129,
+      "Title": "Schedulers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 130,
+      "Title": "Hot and Cold Observables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 131,
+      "Title": "Custom Operators",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 132,
+      "Title": "Project Management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 133,
+      "Title": "Project Creation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 132,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 134,
+      "Title": "Project Structure",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 132,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 135,
+      "Title": "Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 132,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 136,
+      "Title": "Build and Compilation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 132,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 137,
+      "Title": "Development and Deployment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 138,
+      "Title": "Development Server",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 137,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 139,
+      "Title": "Code Generation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 137,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 140,
+      "Title": "Asset Management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 137,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 141,
+      "Title": "Code Linting and Formatting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 137,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 142,
+      "Title": "Environment Management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 137,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 143,
+      "Title": "Deployment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 137,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 144,
+      "Title": "Testing and Quality Assurance",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 145,
+      "Title": "Unit Testing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 144,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 146,
+      "Title": "End-to-End Testing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 144,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 147,
+      "Title": "Code Coverage",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 144,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 148,
+      "Title": "Performance Optimization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 144,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 149,
+      "Title": "Continuous Integration and Deployment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 150,
+      "Title": "CI/CD Integration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 149,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 151,
+      "Title": "Automated Builds and Deployments",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 149,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 152,
+      "Title": "Global State Management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 153,
+      "Title": "Store",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 152,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 154,
+      "Title": "Actions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 152,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 155,
+      "Title": "Reducers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 152,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 156,
+      "Title": "Selectors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 152,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 157,
+      "Title": "Effects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 152,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 158,
+      "Title": "Flux Architecture",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 159,
+      "Title": "Dispatcher",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 158,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 160,
+      "Title": "Actions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 158,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 161,
+      "Title": "Stores",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 158,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 162,
+      "Title": "Views/Components",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 158,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 163,
+      "Title": "React Context API",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 164,
+      "Title": "Context Provider",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 163,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 165,
+      "Title": "Context Consumer",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 163,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 166,
+      "Title": "useContext Hook",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 163,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 167,
+      "Title": "Redux (Library)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 168,
+      "Title": "Store",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 167,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 169,
+      "Title": "Actions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 167,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 170,
+      "Title": "Reducers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 167,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 171,
+      "Title": "Selectors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 167,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 172,
+      "Title": "Middleware",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 167,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 173,
+      "Title": "MobX (Library)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 174,
+      "Title": "Observable State",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 173,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 175,
+      "Title": "Actions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 173,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 176,
+      "Title": "Reactions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 173,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 177,
+      "Title": "Computed Values",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 173,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 178,
+      "Title": "NgRx (for Angular)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 179,
+      "Title": "Store",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 178,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 180,
+      "Title": "Actions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 178,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 181,
+      "Title": "Reducers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 178,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 182,
+      "Title": "Effects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 178,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 183,
+      "Title": "Selectors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 178,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    }
+  ],
+  "NotesCollection": [
+    {
+      "NotesCollectionID": 1,
+      "Title": "Default Collection",
+      "Selected": true,
+      "ProjectFK": 1,
+      "Project": null,
+      "Note": []
+    }
+  ]
+}
