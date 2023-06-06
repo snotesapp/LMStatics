@@ -367,7 +367,7 @@
     },
     {
       "PacketID": 34,
-      "Title": "Function Context and \n\u0022this\u0022 Keyword",
+      "Title": "Function Context and \u0022this\u0022 Keyword",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -400,7 +400,7 @@
     },
     {
       "PacketID": 37,
-      "Title": "Object-oriented Programming \n(OOP) Principles",
+      "Title": "Object-oriented Programming (OOP) Principles",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -444,7 +444,7 @@
     },
     {
       "PacketID": 41,
-      "Title": "Array Methods and \nHigher-Order Functions",
+      "Title": "Array Methods and Higher-Order Functions",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -631,7 +631,7 @@
     },
     {
       "PacketID": 58,
-      "Title": "Error Handling in \nAsynchronous Code",
+      "Title": "Error Handling in Asynchronous Code",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -642,7 +642,7 @@
     },
     {
       "PacketID": 59,
-      "Title": "Asynchronous Patterns \nand Techniques",
+      "Title": "Asynchronous Patterns and Techniques",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -884,7 +884,7 @@
     },
     {
       "PacketID": 82,
-      "Title": "Event Handling Best \nPractices",
+      "Title": "Event Handling Best Practices",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -972,7 +972,7 @@
     },
     {
       "PacketID": 90,
-      "Title": "Error Propagation and \nStack Traces",
+      "Title": "Error Propagation and Stack Traces",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1016,7 +1016,7 @@
     },
     {
       "PacketID": 94,
-      "Title": "Error Reporting and \nLogging",
+      "Title": "Error Reporting and Logging",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1093,7 +1093,7 @@
     },
     {
       "PacketID": 101,
-      "Title": "Understanding variable declaration \nusing var, let, and const",
+      "Title": "Understanding variable declaration using var, let, and const",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1115,7 +1115,7 @@
     },
     {
       "PacketID": 103,
-      "Title": "Variable naming conventions \nand best practices",
+      "Title": "Variable naming conventions and best practices",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1192,7 +1192,7 @@
     },
     {
       "PacketID": 110,
-      "Title": "Understanding JavaScript\u0027s automatic \ntype conversion rules",
+      "Title": "Understanding JavaScript\u0027s automatic type conversion rules",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1203,7 +1203,7 @@
     },
     {
       "PacketID": 111,
-      "Title": "Explicitly converting between \ndata types using functions like \nparseInt(), parseFloat(), String(), and others",
+      "Title": "Explicitly converting between data types using functions like parseInt(), parseFloat(), String(), and others",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1214,7 +1214,7 @@
     },
     {
       "PacketID": 112,
-      "Title": "Avoiding common pitfalls \nand unexpected behavior \ncaused by type coercion",
+      "Title": "Avoiding common pitfalls and unexpected behavior caused by type coercion",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1236,7 +1236,7 @@
     },
     {
       "PacketID": 114,
-      "Title": "Variable hoisting and its \nimpact on variable accessibility",
+      "Title": "Variable hoisting and its impact on variable accessibility",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1247,7 +1247,7 @@
     },
     {
       "PacketID": 115,
-      "Title": "Using variables effectively \nwithin different scopes",
+      "Title": "Using variables effectively within different scopes",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1258,7 +1258,7 @@
     },
     {
       "PacketID": 116,
-      "Title": "Performing arithmetic operations \non numeric variables",
+      "Title": "Performing arithmetic operations on numeric variables",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1269,7 +1269,7 @@
     },
     {
       "PacketID": 117,
-      "Title": "Concatenating and manipulating \nstrings",
+      "Title": "Concatenating and manipulating strings",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1280,7 +1280,7 @@
     },
     {
       "PacketID": 118,
-      "Title": "Understanding and using \ncomparison operators \n(==, ===, !==, etc.)",
+      "Title": "Understanding and using comparison operators (==, ===, !==, etc.)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1291,7 +1291,7 @@
     },
     {
       "PacketID": 119,
-      "Title": "Logical operators (\u0026\u0026, ||, !) \nfor boolean operations",
+      "Title": "Logical operators (\u0026\u0026, ||, !) for boolean operations",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1302,7 +1302,7 @@
     },
     {
       "PacketID": 120,
-      "Title": "Declaring and using \nconstants with the const \nkeyword",
+      "Title": "Declaring and using constants with the const keyword",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1313,7 +1313,7 @@
     },
     {
       "PacketID": 121,
-      "Title": "Understanding the immutability \nof constants and their \nbenefits",
+      "Title": "Understanding the immutability of constants and their benefits",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1324,7 +1324,7 @@
     },
     {
       "PacketID": 122,
-      "Title": "Using the typeof operator \nto determine the data type of \na variable",
+      "Title": "Using the typeof operator to determine the data type of a variable",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1335,7 +1335,7 @@
     },
     {
       "PacketID": 123,
-      "Title": "Additional methods for \ntype checking, such as instanceof \nand Array.isArray()",
+      "Title": "Additional methods for type checking, such as instanceof and Array.isArray()",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1346,7 +1346,7 @@
     },
     {
       "PacketID": 124,
-      "Title": "Understanding closures \nand how they relate to \nvariable scope",
+      "Title": "Understanding closures and how they relate to variable scope",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1357,7 +1357,7 @@
     },
     {
       "PacketID": 125,
-      "Title": "Identifying closure-related \nissues and managing variable \nscope effectively",
+      "Title": "Identifying closure-related issues and managing variable scope effectively",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1467,7 +1467,7 @@
     },
     {
       "PacketID": 135,
-      "Title": "Function declaration and \nexpression",
+      "Title": "Function declaration and expression",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1511,7 +1511,7 @@
     },
     {
       "PacketID": 139,
-      "Title": "Local variables and function \nscope",
+      "Title": "Local variables and function scope",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1522,7 +1522,7 @@
     },
     {
       "PacketID": 140,
-      "Title": "Global variables and global \nscope",
+      "Title": "Global variables and global scope",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1544,7 +1544,7 @@
     },
     {
       "PacketID": 142,
-      "Title": "Immediately Invoked Function \nExpressions (IIFE)",
+      "Title": "Immediately Invoked Function Expressions (IIFE)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1555,7 +1555,7 @@
     },
     {
       "PacketID": 143,
-      "Title": "Function properties \n(e.g., name, length)",
+      "Title": "Function properties (e.g., name, length)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1566,7 +1566,7 @@
     },
     {
       "PacketID": 144,
-      "Title": "Function methods \n(e.g., call, apply, bind)",
+      "Title": "Function methods (e.g., call, apply, bind)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1577,7 +1577,7 @@
     },
     {
       "PacketID": 145,
-      "Title": "Arrow functions and their \ndifferences",
+      "Title": "Arrow functions and their differences",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1588,7 +1588,7 @@
     },
     {
       "PacketID": 146,
-      "Title": "Higher-order functions and functional \nprogramming concepts",
+      "Title": "Higher-order functions and functional programming concepts",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1610,7 +1610,7 @@
     },
     {
       "PacketID": 148,
-      "Title": "Using callbacks to handle \nasynchronous operations",
+      "Title": "Using callbacks to handle asynchronous operations",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1621,7 +1621,7 @@
     },
     {
       "PacketID": 149,
-      "Title": "Callback hell and techniques \nto mitigate it \n(e.g., Promises, async/await)",
+      "Title": "Callback hell and techniques to mitigate it (e.g., Promises, async/await)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1632,7 +1632,7 @@
     },
     {
       "PacketID": 150,
-      "Title": "Creating objects with \nfunction constructors",
+      "Title": "Creating objects with function constructors",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1643,7 +1643,7 @@
     },
     {
       "PacketID": 151,
-      "Title": "Using prototypes for inheritance \nand method sharing",
+      "Title": "Using prototypes for inheritance and method sharing",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1654,7 +1654,7 @@
     },
     {
       "PacketID": 152,
-      "Title": "The \u0022new\u0022 keyword and constructor \ninvocation pattern",
+      "Title": "The \u0022new\u0022 keyword and constructor invocation pattern",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1665,7 +1665,7 @@
     },
     {
       "PacketID": 153,
-      "Title": "Understanding function context \nand the \u0022this\u0022 keyword",
+      "Title": "Understanding function context and the \u0022this\u0022 keyword",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1676,7 +1676,7 @@
     },
     {
       "PacketID": 154,
-      "Title": "Differentiating \u0022this\u0022 in regular \nfunctions and arrow functions",
+      "Title": "Differentiating \u0022this\u0022 in regular functions and arrow functions",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1687,7 +1687,7 @@
     },
     {
       "PacketID": 155,
-      "Title": "Binding \u0022this\u0022 with call(), \napply(), and bind() methods",
+      "Title": "Binding \u0022this\u0022 with call(), apply(), and bind() methods",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1863,7 +1863,7 @@
     },
     {
       "PacketID": 171,
-      "Title": "Declaring and initializing \narrays",
+      "Title": "Declaring and initializing arrays",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1874,7 +1874,7 @@
     },
     {
       "PacketID": 172,
-      "Title": "Accessing array elements \nby index",
+      "Title": "Accessing array elements by index",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1907,7 +1907,7 @@
     },
     {
       "PacketID": 175,
-      "Title": "Iterating over arrays using loops \n(e.g., for loop, forEach method)",
+      "Title": "Iterating over arrays using loops (e.g., for loop, forEach method)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1918,7 +1918,7 @@
     },
     {
       "PacketID": 176,
-      "Title": "Adding elements to an array \n(e.g., push, unshift methods)",
+      "Title": "Adding elements to an array (e.g., push, unshift methods)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1929,7 +1929,7 @@
     },
     {
       "PacketID": 177,
-      "Title": "Removing elements from an array \n(e.g., pop, shift methods)",
+      "Title": "Removing elements from an array (e.g., pop, shift methods)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1962,7 +1962,7 @@
     },
     {
       "PacketID": 180,
-      "Title": "Understanding and using array methods \nlike map, filter, and reduce",
+      "Title": "Understanding and using array methods like map, filter, and reduce",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1973,7 +1973,7 @@
     },
     {
       "PacketID": 181,
-      "Title": "Sorting arrays using sort method \nor custom comparison functions",
+      "Title": "Sorting arrays using sort method or custom comparison functions",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1984,7 +1984,7 @@
     },
     {
       "PacketID": 182,
-      "Title": "Searching for elements within \nan array using methods \nlike indexOf or includes",
+      "Title": "Searching for elements within an array using methods like indexOf or includes",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -1995,7 +1995,7 @@
     },
     {
       "PacketID": 183,
-      "Title": "Applying functional programming \nconcepts with arrays \n(e.g., functional composition, immutability)",
+      "Title": "Applying functional programming concepts with arrays (e.g., functional composition, immutability)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2006,7 +2006,7 @@
     },
     {
       "PacketID": 184,
-      "Title": "Creating and working \nwith arrays of arrays \n(e.g., matrix)",
+      "Title": "Creating and working with arrays of arrays (e.g., matrix)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2017,7 +2017,7 @@
     },
     {
       "PacketID": 185,
-      "Title": "Accessing and manipulating \nelements in multidimensional \narrays",
+      "Title": "Accessing and manipulating elements in multidimensional arrays",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2028,7 +2028,7 @@
     },
     {
       "PacketID": 186,
-      "Title": "Extracting individual elements\n from an array using destructuring \nsyntax",
+      "Title": "Extracting individual elements from an array using destructuring syntax",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2039,7 +2039,7 @@
     },
     {
       "PacketID": 187,
-      "Title": "Assigning default values \nduring array destructuring",
+      "Title": "Assigning default values during array destructuring",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2050,7 +2050,7 @@
     },
     {
       "PacketID": 188,
-      "Title": "Using for...of loop \nto iterate over arrays",
+      "Title": "Using for...of loop to iterate over arrays",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2061,7 +2061,7 @@
     },
     {
       "PacketID": 189,
-      "Title": "Transforming arrays using \nmap method",
+      "Title": "Transforming arrays using map method",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2072,7 +2072,7 @@
     },
     {
       "PacketID": 190,
-      "Title": "Filtering arrays using \nfilter method",
+      "Title": "Filtering arrays using filter method",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2083,7 +2083,7 @@
     },
     {
       "PacketID": 191,
-      "Title": "Applying transformations \nand filters simultaneously \nusing method chaining",
+      "Title": "Applying transformations and filters simultaneously using method chaining",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2094,7 +2094,7 @@
     },
     {
       "PacketID": 192,
-      "Title": "Finding specific elements \nin an array using find or \nfindIndex method",
+      "Title": "Finding specific elements in an array using find or findIndex method",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2105,7 +2105,7 @@
     },
     {
       "PacketID": 193,
-      "Title": "Modifying arrays in place \nusing methods like \nfill, reverse, or splice",
+      "Title": "Modifying arrays in place using methods like fill, reverse, or splice",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2116,7 +2116,7 @@
     },
     {
       "PacketID": 194,
-      "Title": "Understanding time complexity \nfor various array operations",
+      "Title": "Understanding time complexity for various array operations",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2127,7 +2127,7 @@
     },
     {
       "PacketID": 195,
-      "Title": "Optimizing array operations \nfor performance, if required",
+      "Title": "Optimizing array operations for performance, if required",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2171,7 +2171,7 @@
     },
     {
       "PacketID": 199,
-      "Title": "Creating and Appending \nElements",
+      "Title": "Creating and Appending Elements",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2292,7 +2292,7 @@
     },
     {
       "PacketID": 210,
-      "Title": "Understanding the concept of \ncallbacks and how they are used \nin asynchronous operations",
+      "Title": "Understanding the concept of callbacks and how they are used in asynchronous operations",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2303,7 +2303,7 @@
     },
     {
       "PacketID": 211,
-      "Title": "Implementing and working \nwith callback functions",
+      "Title": "Implementing and working with callback functions",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2314,7 +2314,7 @@
     },
     {
       "PacketID": 212,
-      "Title": "Handling errors in callback-based \nasynchronous code",
+      "Title": "Handling errors in callback-based asynchronous code",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2325,7 +2325,7 @@
     },
     {
       "PacketID": 213,
-      "Title": "Managing callback hell and \nutilizing techniques like named \nfunctions and control flow libraries",
+      "Title": "Managing callback hell and utilizing techniques like named functions and control flow libraries",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2336,7 +2336,7 @@
     },
     {
       "PacketID": 214,
-      "Title": "Understanding the Promise object \nand its purpose in handling \nasynchronous operations",
+      "Title": "Understanding the Promise object and its purpose in handling asynchronous operations",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2347,7 +2347,7 @@
     },
     {
       "PacketID": 215,
-      "Title": "Creating and working with \nPromises using the then \nand catch methods",
+      "Title": "Creating and working with Promises using the then and catch methods",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2358,7 +2358,7 @@
     },
     {
       "PacketID": 216,
-      "Title": "Chaining multiple Promises \nand handling errors in \nPromise chains",
+      "Title": "Chaining multiple Promises and handling errors in Promise chains",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2369,7 +2369,7 @@
     },
     {
       "PacketID": 217,
-      "Title": "Utilizing Promise-based \nlibraries and frameworks",
+      "Title": "Utilizing Promise-based libraries and frameworks",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2380,7 +2380,7 @@
     },
     {
       "PacketID": 218,
-      "Title": "Understanding the async/await \nsyntax and its role in \nsimplifying asynchronous code",
+      "Title": "Understanding the async/await syntax and its role in simplifying asynchronous code",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2391,7 +2391,7 @@
     },
     {
       "PacketID": 219,
-      "Title": "Writing asynchronous functions \nusing the async keyword and \nreturning Promises",
+      "Title": "Writing asynchronous functions using the async keyword and returning Promises",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2402,7 +2402,7 @@
     },
     {
       "PacketID": 220,
-      "Title": "Using the await keyword to \nhandle Promise resolution and retrieve \nasynchronous results",
+      "Title": "Using the await keyword to handle Promise resolution and retrieve asynchronous results",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2413,7 +2413,7 @@
     },
     {
       "PacketID": 221,
-      "Title": "Error handling with try/catch \nblocks in async/await code",
+      "Title": "Error handling with try/catch blocks in async/await code",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2424,7 +2424,7 @@
     },
     {
       "PacketID": 222,
-      "Title": "Understanding the JavaScript event loop \nand its role in handling asynchronous \noperations",
+      "Title": "Understanding the JavaScript event loop and its role in handling asynchronous operations",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2435,7 +2435,7 @@
     },
     {
       "PacketID": 223,
-      "Title": "Exploring the concurrency \nmodel and how JavaScript manages \nconcurrent tasks",
+      "Title": "Exploring the concurrency model and how JavaScript manages concurrent tasks",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2446,7 +2446,7 @@
     },
     {
       "PacketID": 224,
-      "Title": "Understanding the difference between \nthe call stack, the event loop, \nand the task queue",
+      "Title": "Understanding the difference between the call stack, the event loop, and the task queue",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2457,7 +2457,7 @@
     },
     {
       "PacketID": 225,
-      "Title": "Identifying and resolving potential \nconcurrency issues, such as race conditions \nor blocking operations",
+      "Title": "Identifying and resolving potential concurrency issues, such as race conditions or blocking operations",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2468,7 +2468,7 @@
     },
     {
       "PacketID": 226,
-      "Title": "Making asynchronous HTTP requests \nusing the XMLHttpRequest object \n(traditional AJAX)",
+      "Title": "Making asynchronous HTTP requests using the XMLHttpRequest object (traditional AJAX)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2479,7 +2479,7 @@
     },
     {
       "PacketID": 227,
-      "Title": "Understanding the Fetch API \nfor making modern asynchronous \nrequests",
+      "Title": "Understanding the Fetch API for making modern asynchronous requests",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2490,7 +2490,7 @@
     },
     {
       "PacketID": 228,
-      "Title": "Handling responses and working \nwith data returned from \nserver-side APIs",
+      "Title": "Handling responses and working with data returned from server-side APIs",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2501,7 +2501,7 @@
     },
     {
       "PacketID": 229,
-      "Title": "Managing errors and handling \ndifferent response types",
+      "Title": "Managing errors and handling different response types",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2512,7 +2512,7 @@
     },
     {
       "PacketID": 230,
-      "Title": "Utilizing timers \n(setTimeout, setInterval) \nto execute code asynchronously",
+      "Title": "Utilizing timers (setTimeout, setInterval) to execute code asynchronously",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2523,7 +2523,7 @@
     },
     {
       "PacketID": 231,
-      "Title": "Controlling the timing \nand interval of asynchronous \ntasks",
+      "Title": "Controlling the timing and interval of asynchronous tasks",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2534,7 +2534,7 @@
     },
     {
       "PacketID": 232,
-      "Title": "Clearing and canceling \ntimers and intervals",
+      "Title": "Clearing and canceling timers and intervals",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2545,7 +2545,7 @@
     },
     {
       "PacketID": 233,
-      "Title": "Understanding error propagation \nin asynchronous operations",
+      "Title": "Understanding error propagation in asynchronous operations",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2556,7 +2556,7 @@
     },
     {
       "PacketID": 234,
-      "Title": "Handling and catching errors \nin asynchronous code",
+      "Title": "Handling and catching errors in asynchronous code",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2567,7 +2567,7 @@
     },
     {
       "PacketID": 235,
-      "Title": "Utilizing error objects and \nerror handling patterns in \nasynchronous contexts",
+      "Title": "Utilizing error objects and error handling patterns in asynchronous contexts",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2655,7 +2655,7 @@
     },
     {
       "PacketID": 243,
-      "Title": "Function Declaration vs. \nFunction Expression",
+      "Title": "Function Declaration vs. Function Expression",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2677,7 +2677,7 @@
     },
     {
       "PacketID": 245,
-      "Title": "IIFE (Immediately Invoked \nFunction Expression)",
+      "Title": "IIFE (Immediately Invoked Function Expression)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2721,7 +2721,7 @@
     },
     {
       "PacketID": 249,
-      "Title": "Lexical scoping and \u0022this\u0022 \ncontext",
+      "Title": "Lexical scoping and \u0022this\u0022 context",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2787,7 +2787,7 @@
     },
     {
       "PacketID": 255,
-      "Title": "Default values and renaming \nvariables",
+      "Title": "Default values and renaming variables",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2809,7 +2809,7 @@
     },
     {
       "PacketID": 257,
-      "Title": "Spread operator for array and \nobject manipulation",
+      "Title": "Spread operator for array and object manipulation",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2820,7 +2820,7 @@
     },
     {
       "PacketID": 258,
-      "Title": "Rest parameters for function \narguments",
+      "Title": "Rest parameters for function arguments",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2831,7 +2831,7 @@
     },
     {
       "PacketID": 259,
-      "Title": "Assigning default values to \nfunction parameters",
+      "Title": "Assigning default values to function parameters",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2842,7 +2842,7 @@
     },
     {
       "PacketID": 260,
-      "Title": "Exporting and importing \nmodules",
+      "Title": "Exporting and importing modules",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2864,7 +2864,7 @@
     },
     {
       "PacketID": 262,
-      "Title": "Module bundlers and loaders \n(e.g., webpack, Babel)",
+      "Title": "Module bundlers and loaders (e.g., webpack, Babel)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2886,7 +2886,7 @@
     },
     {
       "PacketID": 264,
-      "Title": "Class inheritance and \nsuper keyword",
+      "Title": "Class inheritance and super keyword",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2919,7 +2919,7 @@
     },
     {
       "PacketID": 267,
-      "Title": "Chaining and handling \npromise rejections",
+      "Title": "Chaining and handling promise rejections",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2930,7 +2930,7 @@
     },
     {
       "PacketID": 268,
-      "Title": "Iteration protocol and \niterable objects",
+      "Title": "Iteration protocol and iterable objects",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2952,7 +2952,7 @@
     },
     {
       "PacketID": 270,
-      "Title": "Generator functions and \ngenerator iterators",
+      "Title": "Generator functions and generator iterators",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2985,7 +2985,7 @@
     },
     {
       "PacketID": 273,
-      "Title": "Object.assign for object \nmerging",
+      "Title": "Object.assign for object merging",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -2996,7 +2996,7 @@
     },
     {
       "PacketID": 274,
-      "Title": "Array.find and \nArray.findIndex",
+      "Title": "Array.find and Array.findIndex",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3007,7 +3007,7 @@
     },
     {
       "PacketID": 275,
-      "Title": "Array.some and \nArray.every",
+      "Title": "Array.some and Array.every",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3029,7 +3029,7 @@
     },
     {
       "PacketID": 277,
-      "Title": "Array.from and \nArray.of",
+      "Title": "Array.from and Array.of",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3073,7 +3073,7 @@
     },
     {
       "PacketID": 281,
-      "Title": "Async function declaration \nand behavior",
+      "Title": "Async function declaration and behavior",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3392,7 +3392,7 @@
     },
     {
       "PacketID": 310,
-      "Title": "Understanding error types \nand categories \n(e.g., SyntaxError, TypeError, etc.)",
+      "Title": "Understanding error types and categories (e.g., SyntaxError, TypeError, etc.)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3403,7 +3403,7 @@
     },
     {
       "PacketID": 311,
-      "Title": "Throwing and catching \nerrors using the throw statement \nand try...catch blocks",
+      "Title": "Throwing and catching errors using the throw statement and try...catch blocks",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3414,7 +3414,7 @@
     },
     {
       "PacketID": 312,
-      "Title": "Handling runtime errors \nand preventing crashes",
+      "Title": "Handling runtime errors and preventing crashes",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3425,7 +3425,7 @@
     },
     {
       "PacketID": 313,
-      "Title": "Familiarizing yourself with \nthe Error object and its properties \n(name and message)",
+      "Title": "Familiarizing yourself with the Error object and its properties (name and message)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3436,7 +3436,7 @@
     },
     {
       "PacketID": 314,
-      "Title": "Creating custom error objects \nby extending the Error object",
+      "Title": "Creating custom error objects by extending the Error object",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3447,7 +3447,7 @@
     },
     {
       "PacketID": 315,
-      "Title": "Understanding how errors propagate \nthrough the call stack",
+      "Title": "Understanding how errors propagate through the call stack",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3458,7 +3458,7 @@
     },
     {
       "PacketID": 316,
-      "Title": "Analyzing stack traces to \nidentify the source of errors",
+      "Title": "Analyzing stack traces to identify the source of errors",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3469,7 +3469,7 @@
     },
     {
       "PacketID": 317,
-      "Title": "Customizing and manipulating \nstack traces",
+      "Title": "Customizing and manipulating stack traces",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3480,7 +3480,7 @@
     },
     {
       "PacketID": 318,
-      "Title": "Using multiple catch blocks to \nhandle different error types",
+      "Title": "Using multiple catch blocks to handle different error types",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3491,7 +3491,7 @@
     },
     {
       "PacketID": 319,
-      "Title": "Rethrowing errors to propagate \nthem to higher levels",
+      "Title": "Rethrowing errors to propagate them to higher levels",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3502,7 +3502,7 @@
     },
     {
       "PacketID": 320,
-      "Title": "Utilizing finally blocks \nfor cleanup operations",
+      "Title": "Utilizing finally blocks for cleanup operations",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3513,7 +3513,7 @@
     },
     {
       "PacketID": 321,
-      "Title": "Implementing defensive programming \ntechniques to handle potential \nerrors",
+      "Title": "Implementing defensive programming techniques to handle potential errors",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3524,7 +3524,7 @@
     },
     {
       "PacketID": 322,
-      "Title": "Graceful degradation and \nfallback strategies",
+      "Title": "Graceful degradation and fallback strategies",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3535,7 +3535,7 @@
     },
     {
       "PacketID": 323,
-      "Title": "Nullish coalescing and \noptional chaining for safe \nproperty access",
+      "Title": "Nullish coalescing and optional chaining for safe property access",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3546,7 +3546,7 @@
     },
     {
       "PacketID": 324,
-      "Title": "Handling errors in \nasynchronous operations \n(e.g., AJAX requests, timeouts)",
+      "Title": "Handling errors in asynchronous operations (e.g., AJAX requests, timeouts)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3557,7 +3557,7 @@
     },
     {
       "PacketID": 325,
-      "Title": "Understanding promises and \nchaining catch blocks",
+      "Title": "Understanding promises and chaining catch blocks",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3568,7 +3568,7 @@
     },
     {
       "PacketID": 326,
-      "Title": "Error handling in \nasync/await functions",
+      "Title": "Error handling in async/await functions",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3579,7 +3579,7 @@
     },
     {
       "PacketID": 327,
-      "Title": "Capturing and reporting \nerrors to a server or error \ntracking service",
+      "Title": "Capturing and reporting errors to a server or error tracking service",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3590,7 +3590,7 @@
     },
     {
       "PacketID": 328,
-      "Title": "Logging errors to \nthe console or custom \nlog files",
+      "Title": "Logging errors to the console or custom log files",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3601,7 +3601,7 @@
     },
     {
       "PacketID": 329,
-      "Title": "Adding contextual information \nto error reports \n(e.g., user details, environment)",
+      "Title": "Adding contextual information to error reports (e.g., user details, environment)",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3612,7 +3612,7 @@
     },
     {
       "PacketID": 330,
-      "Title": "Using browser development tools \nto debug JavaScript code",
+      "Title": "Using browser development tools to debug JavaScript code",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3623,7 +3623,7 @@
     },
     {
       "PacketID": 331,
-      "Title": "Setting breakpoints and stepping \nthrough code execution",
+      "Title": "Setting breakpoints and stepping through code execution",
       "Resume": null,
       "Selected": false,
       "Editable": false,
@@ -3634,7 +3634,7 @@
     },
     {
       "PacketID": 332,
-      "Title": "Inspecting variables and call \nstack during debugging",
+      "Title": "Inspecting variables and call stack during debugging",
       "Resume": null,
       "Selected": false,
       "Editable": false,
