@@ -1,0 +1,5556 @@
+{
+  "ProjectID": 1,
+  "Name": "Canva",
+  "Packets": [
+    {
+      "PacketID": 1,
+      "Title": "Canva",
+      "Resume": null,
+      "Selected": true,
+      "ParentID": null,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 2,
+      "Title": "Design Basics",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 3,
+      "Title": "Canva Interface",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 4,
+      "Title": "Templates",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 5,
+      "Title": "Graphic Elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 6,
+      "Title": "Images",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 7,
+      "Title": "Text Editing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 8,
+      "Title": "Color and Background",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 9,
+      "Title": "Effects and Filters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 10,
+      "Title": "Layouts and Alignment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 11,
+      "Title": "Collaboration and Sharing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 12,
+      "Title": "Exporting and Printing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 13,
+      "Title": "Advanced Features",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 14,
+      "Title": "Layout",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 15,
+      "Title": "Grids",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 14,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 16,
+      "Title": "Proportion and balance",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 15,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 17,
+      "Title": "Alignment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 14,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 18,
+      "Title": "Visual hierarchy and organization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 17,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 19,
+      "Title": "White space",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 14,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 20,
+      "Title": "Use of negative space",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 19,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 21,
+      "Title": "Symmetry/Asymmetry",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 14,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 22,
+      "Title": "Creating visual harmony or tension",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 21,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 23,
+      "Title": "Color Theory",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 24,
+      "Title": "Color wheel",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 23,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 25,
+      "Title": "Primary colors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 24,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 26,
+      "Title": "Secondary colors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 24,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 27,
+      "Title": "Tertiary colors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 24,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 28,
+      "Title": "Color harmony",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 23,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 29,
+      "Title": "Complementary color scheme",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 28,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 30,
+      "Title": "Analogous color scheme",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 28,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 31,
+      "Title": "Triadic color scheme",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 28,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 32,
+      "Title": "Color psychology",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 23,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 33,
+      "Title": "The emotional impact of colors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 32,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 34,
+      "Title": "Color contrast",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 23,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 35,
+      "Title": "Contrast in hue",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 34,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 36,
+      "Title": "Contrast in value",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 34,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 37,
+      "Title": "Contrast in saturation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 34,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 38,
+      "Title": "Typography",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 39,
+      "Title": "Fonts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 38,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 40,
+      "Title": "Typeface selection and pairing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 39,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 41,
+      "Title": "Font styles",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 38,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 42,
+      "Title": "Serif",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 41,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 43,
+      "Title": "Sans-serif",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 41,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 44,
+      "Title": "Script",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 41,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 45,
+      "Title": "Display",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 41,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 46,
+      "Title": "Readability",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 38,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 47,
+      "Title": "Legibility and readability considerations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 46,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 48,
+      "Title": "Hierarchy",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 38,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 49,
+      "Title": "Importance and emphasis of text",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 48,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 50,
+      "Title": "Visual Hierarchy",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 51,
+      "Title": "Size",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 50,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 52,
+      "Title": "Relative size to communicate importance",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 51,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 53,
+      "Title": "Weight",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 50,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 54,
+      "Title": "Boldness or thickness to draw attention",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 53,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 55,
+      "Title": "Color",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 50,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 56,
+      "Title": "Contrasting colors to guide the eye",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 55,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 57,
+      "Title": "Placement",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 50,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 58,
+      "Title": "Positioning elements for visual flow",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 57,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 59,
+      "Title": "Proximity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 50,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 60,
+      "Title": "Grouping related elements for cohesion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 59,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 61,
+      "Title": "Repetition",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 50,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 62,
+      "Title": "Consistency and repetition of visual elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 63,
+      "Title": "Contrast",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 50,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 64,
+      "Title": "Creating emphasis through differences",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 63,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 65,
+      "Title": "Depth",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 50,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 66,
+      "Title": "Layering and perspective techniques",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 65,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 67,
+      "Title": "Movement",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 50,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 68,
+      "Title": "Guiding the viewer\u0027s eye through design",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 67,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 69,
+      "Title": "Composition",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 70,
+      "Title": "Rule of thirds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 69,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 71,
+      "Title": "Dividing the canvas for balanced composition",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 70,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 72,
+      "Title": "Golden ratio",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 69,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 73,
+      "Title": "Applying the Fibonacci sequence for pleasing ratios",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 72,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 74,
+      "Title": "Framing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 69,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 75,
+      "Title": "Using shapes or objects to frame the subject",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 74,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 76,
+      "Title": "Point of interest",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 69,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 77,
+      "Title": "Focusing on a central element or focal point",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 76,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 78,
+      "Title": "Leading lines",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 69,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 79,
+      "Title": "Lines that guide the viewer\u0027s gaze",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 78,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 80,
+      "Title": "Rule of odds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 69,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 81,
+      "Title": "Using odd numbers of elements for visual interest",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 80,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 82,
+      "Title": "Canvas Area",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 83,
+      "Title": "Design space",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 82,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 84,
+      "Title": "Design layout",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 83,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 85,
+      "Title": "Background",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 82,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 86,
+      "Title": "Color",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 85,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 87,
+      "Title": "Gradients",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 85,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 88,
+      "Title": "Patterns",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 85,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 89,
+      "Title": "Grids",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 82,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 90,
+      "Title": "Alignment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 89,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 91,
+      "Title": "Spacing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 89,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 92,
+      "Title": "Guides",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 82,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 93,
+      "Title": "Positioning elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 92,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 94,
+      "Title": "Toolbar",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 95,
+      "Title": "Text",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 94,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 96,
+      "Title": "Typography",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 95,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 97,
+      "Title": "Formatting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 95,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 98,
+      "Title": "Alignment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 95,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 99,
+      "Title": "Elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 94,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 100,
+      "Title": "Shapes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 99,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 101,
+      "Title": "Lines",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 99,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 102,
+      "Title": "Icons",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 99,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 103,
+      "Title": "Illustrations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 99,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 104,
+      "Title": "Uploads",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 94,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 105,
+      "Title": "Importing and managing images",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 104,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 106,
+      "Title": "Backgrounds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 94,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 107,
+      "Title": "Solid colors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 106,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 108,
+      "Title": "Gradients",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 106,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 109,
+      "Title": "Patterns",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 106,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 110,
+      "Title": "Folders",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 94,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 111,
+      "Title": "Organizing design elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 110,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 112,
+      "Title": "Templates",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 94,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 113,
+      "Title": "Pre-designed layouts for various needs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 112,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 114,
+      "Title": "Side Panel",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 115,
+      "Title": "Elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 114,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 116,
+      "Title": "Customizing and arranging graphic elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 115,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 117,
+      "Title": "Text",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 114,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 118,
+      "Title": "Customizing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 117,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 119,
+      "Title": "Formatting text",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 117,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 120,
+      "Title": "Background",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 114,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 121,
+      "Title": "Modifying background settings",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 120,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 122,
+      "Title": "Uploads",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 114,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 123,
+      "Title": "Managing and using uploaded images",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 122,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 124,
+      "Title": "Templates",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 114,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 125,
+      "Title": "Customizing pre-designed templates",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 124,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 126,
+      "Title": "Effects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 114,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 127,
+      "Title": "Applying filters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 126,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 128,
+      "Title": "Effects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 126,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 129,
+      "Title": "Animations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 126,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 130,
+      "Title": "Music",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 114,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 131,
+      "Title": "Adding and editing audio tracks",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 130,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 132,
+      "Title": "Videos",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 114,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 133,
+      "Title": "Incorporating videos into designs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 132,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 134,
+      "Title": "Elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 114,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 135,
+      "Title": "Exploring and adding design elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 134,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 136,
+      "Title": "Textures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 114,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 137,
+      "Title": "Applying textures and patterns",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 136,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 138,
+      "Title": "Folders",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 114,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 139,
+      "Title": "Organizing design elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 138,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 140,
+      "Title": "Menus and Options",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 141,
+      "Title": "File",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 140,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 142,
+      "Title": "Creating",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 141,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 143,
+      "Title": "Saving",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 141,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 144,
+      "Title": "Exporting designs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 141,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 145,
+      "Title": "Edit",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 140,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 146,
+      "Title": "Undo",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 145,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 147,
+      "Title": "Redo",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 145,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 148,
+      "Title": "Copy",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 145,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 149,
+      "Title": "Paste",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 145,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 150,
+      "Title": "Arrange",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 140,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 151,
+      "Title": "Layering",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 150,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 152,
+      "Title": "Grouping",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 150,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 153,
+      "Title": "Aligning objects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 150,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 154,
+      "Title": "Effects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 140,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 155,
+      "Title": "Adjusting image filters and effects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 154,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 156,
+      "Title": "View",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 140,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 157,
+      "Title": "Zooming",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 156,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 158,
+      "Title": "Showing/hiding grid and guides",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 156,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 159,
+      "Title": "Help",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 140,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 160,
+      "Title": "Accessing tutorials and support",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 159,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 161,
+      "Title": "Collaboration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 162,
+      "Title": "Share",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 161,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 163,
+      "Title": "Collaborating and sharing designs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 162,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 164,
+      "Title": "Comment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 161,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 165,
+      "Title": "Adding and responding to comments",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 164,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 166,
+      "Title": "Download",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 161,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 167,
+      "Title": "Exporting designs in different formats",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 166,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 168,
+      "Title": "Branding",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 161,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 169,
+      "Title": "Consistent brand styles and assets",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 168,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 170,
+      "Title": "Shapes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 171,
+      "Title": "Basic shapes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 170,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 172,
+      "Title": "Circle",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 171,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 173,
+      "Title": "Square",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 171,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 174,
+      "Title": "Triangle",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 171,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 175,
+      "Title": "Rectangle",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 171,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 176,
+      "Title": "Lines",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 177,
+      "Title": "Straight lines",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 176,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 178,
+      "Title": "Horizontal line",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 177,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 179,
+      "Title": "Vertical line",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 177,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 180,
+      "Title": "Diagonal line",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 177,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 181,
+      "Title": "Icons",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 182,
+      "Title": "Object icons",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 181,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 183,
+      "Title": "Social media icons",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 182,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 184,
+      "Title": "Technology icons",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 182,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 185,
+      "Title": "Business icons",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 182,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 186,
+      "Title": "Education icons",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 182,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 187,
+      "Title": "Illustrations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 188,
+      "Title": "Various themes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 187,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 189,
+      "Title": "Nature illustrations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 188,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 190,
+      "Title": "People illustrations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 188,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 191,
+      "Title": "Food and drink illustrations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 188,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 192,
+      "Title": "Travel and adventure illustrations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 188,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 193,
+      "Title": "Stickers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 194,
+      "Title": "Decorative stickers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 193,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 195,
+      "Title": "Birthday stickers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 194,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 196,
+      "Title": "Holiday stickers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 194,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 197,
+      "Title": "Emoticon stickers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 194,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 198,
+      "Title": "Sports stickers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 194,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 199,
+      "Title": "Frames",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 200,
+      "Title": "Photo frames",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 199,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 201,
+      "Title": "Polaroid frame",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 200,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 202,
+      "Title": "Filmstrip frame",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 200,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 203,
+      "Title": "Vintage frame",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 200,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 204,
+      "Title": "Modern frame",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 200,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 205,
+      "Title": "Grids",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 206,
+      "Title": "Grid patterns",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 205,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 207,
+      "Title": "3x3 grid",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 206,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 208,
+      "Title": "4x4 grid",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 206,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 209,
+      "Title": "5x5 grid",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 206,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 210,
+      "Title": "Customizable grid",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 206,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 211,
+      "Title": "Backgrounds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 212,
+      "Title": "Solid colors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 211,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 213,
+      "Title": "Primary colors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 212,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 214,
+      "Title": "Pastel colors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 212,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 215,
+      "Title": "Gradient backgrounds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 212,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 216,
+      "Title": "Customizable backgrounds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 212,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 217,
+      "Title": "Textures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 218,
+      "Title": "Texture patterns",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 219,
+      "Title": "Wood texture",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 218,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 220,
+      "Title": "Paper texture",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 218,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 221,
+      "Title": "Fabric texture",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 218,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 222,
+      "Title": "Metal texture",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 218,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 223,
+      "Title": "Image Library",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 224,
+      "Title": "Search",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 223,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 225,
+      "Title": "Using relevant keywords to find desired images",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 224,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 226,
+      "Title": "Filter",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 223,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 227,
+      "Title": "Applying filters (e.g., color, orientation, size) to refine search results",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 226,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 228,
+      "Title": "Collections",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 223,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 229,
+      "Title": "Exploring curated collections of images for specific themes or styles",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 228,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 230,
+      "Title": "Upload",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 223,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 231,
+      "Title": "Uploading and importing your own images into Canva",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 230,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 232,
+      "Title": "Folders",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 223,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 233,
+      "Title": "Organizing images into folders for easy access and management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 232,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 234,
+      "Title": "Licensing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 223,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 235,
+      "Title": "Understanding image usage rights and licensing restrictions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 234,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 236,
+      "Title": "Image Details",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 223,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 237,
+      "Title": "Reviewing image information such as size, resolution, and file format",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 236,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 238,
+      "Title": "Image Editing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 239,
+      "Title": "Crop",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 238,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 240,
+      "Title": "Adjusting the composition of an image by cropping unwanted areas",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 239,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 241,
+      "Title": "Resize",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 238,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 242,
+      "Title": "Changing the dimensions of an image to fit specific design requirements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 241,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 243,
+      "Title": "Rotate",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 238,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 244,
+      "Title": "Rotating an image to different angles or orientations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 243,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 245,
+      "Title": "Flip",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 238,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 246,
+      "Title": "Flipping an image horizontally or vertically",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 245,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 247,
+      "Title": "Filters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 238,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 248,
+      "Title": "Applying visual effects to alter the appearance of an image",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 247,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 249,
+      "Title": "Adjustments",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 238,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 250,
+      "Title": "Modifying brightness, contrast, saturation, and other image parameters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 249,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 251,
+      "Title": "Effects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 238,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 252,
+      "Title": "Adding artistic effects or overlays to enhance the look of an image",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 251,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 253,
+      "Title": "Text Overlay",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 238,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 254,
+      "Title": "Overlaying text on an image to create captions, quotes, or promotional messages",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 253,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 255,
+      "Title": "Image Transparency",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 238,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 256,
+      "Title": "Adjusting the transparency of an image or creating transparent backgrounds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 255,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 257,
+      "Title": "Image Alignment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 238,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 258,
+      "Title": "Aligning and positioning images within a design",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 257,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 259,
+      "Title": "Image Stickers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 238,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 260,
+      "Title": "Adding decorative or informative stickers to images",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 259,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 261,
+      "Title": "Background Removal",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 238,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 262,
+      "Title": "Removing the background of an image to isolate the subject or create a transparent image",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 261,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 263,
+      "Title": "Image Masking",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 238,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 264,
+      "Title": "Using masks to hide or reveal parts of an image",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 263,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 265,
+      "Title": "Image Effects and Filters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 238,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 266,
+      "Title": "Applying filters, overlays, or effects to alter the visual appearance of an image",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 265,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 267,
+      "Title": "Image Retouching and Enhancements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 238,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 268,
+      "Title": "Editing imperfections, enhancing colors, and improving overall image quality",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 267,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 269,
+      "Title": "Formatting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 270,
+      "Title": "Font selection",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 269,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 271,
+      "Title": "- Typeface options",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 270,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 272,
+      "Title": "- Font size",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 270,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 273,
+      "Title": "- Font weight (bold, italics)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 270,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 274,
+      "Title": "- Text color",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 270,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 275,
+      "Title": "- Text background color",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 270,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 276,
+      "Title": "- Text opacity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 270,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 277,
+      "Title": "- Text alignment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 270,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 278,
+      "Title": "- Line spacing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 270,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 279,
+      "Title": "- Text indentation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 270,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 280,
+      "Title": "- Text case (uppercase, lowercase)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 270,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 281,
+      "Title": "- Text decoration (underline, strikethrough)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 270,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 282,
+      "Title": "- Letter spacing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 270,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 283,
+      "Title": "- Kerning",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 270,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 284,
+      "Title": "- Drop cap",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 270,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 285,
+      "Title": "- Text shadow",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 270,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 286,
+      "Title": "Styles",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 287,
+      "Title": "Heading styles",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 286,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 288,
+      "Title": "- Different heading formats",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 287,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 289,
+      "Title": "- Heading font styles",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 287,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 290,
+      "Title": "- Heading colors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 287,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 291,
+      "Title": "- Heading backgrounds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 287,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 292,
+      "Title": "- Heading alignment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 287,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 293,
+      "Title": "- Heading spacing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 287,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 294,
+      "Title": "Paragraph styles",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 286,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 295,
+      "Title": "- Text indentation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 294,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 296,
+      "Title": "- Text alignment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 294,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 297,
+      "Title": "- Line spacing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 294,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 298,
+      "Title": "- Paragraph spacing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 294,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 299,
+      "Title": "- Bulleted and numbered lists",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 294,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 300,
+      "Title": "- Text alignment within lists",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 294,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 301,
+      "Title": "- Hanging indents",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 294,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 302,
+      "Title": "- Paragraph borders",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 294,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 303,
+      "Title": "- Text wrapping",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 294,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 304,
+      "Title": "- Text direction",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 294,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 305,
+      "Title": "Text Effects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 306,
+      "Title": "Text shadows",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 305,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 307,
+      "Title": "- Shadow color",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 306,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 308,
+      "Title": "- Shadow blur",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 306,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 309,
+      "Title": "- Shadow offset",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 306,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 310,
+      "Title": "- Shadow opacity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 306,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 311,
+      "Title": "- Multiple shadows",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 306,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 312,
+      "Title": "- Inner shadows",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 306,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 313,
+      "Title": "Text outline",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 305,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 314,
+      "Title": "- Outline color",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 313,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 315,
+      "Title": "- Outline thickness",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 313,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 316,
+      "Title": "- Outline style",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 313,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 317,
+      "Title": "Text glow",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 305,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 318,
+      "Title": "- Glow color",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 317,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 319,
+      "Title": "- Glow size",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 317,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 320,
+      "Title": "- Glow opacity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 317,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 321,
+      "Title": "Text reflection",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 305,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 322,
+      "Title": "- Reflection opacity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 321,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 323,
+      "Title": "- Reflection blur",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 321,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 324,
+      "Title": "- Reflection distance",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 321,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 325,
+      "Title": "- Reflection angle",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 321,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 326,
+      "Title": "- Reflection position",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 321,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 327,
+      "Title": "- Reflection rotation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 321,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 328,
+      "Title": "- Reflection stretch",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 321,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 329,
+      "Title": "- Reflection skew",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 321,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 330,
+      "Title": "- Reflection flip",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 321,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 331,
+      "Title": "- Reflection offset",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 321,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 332,
+      "Title": "Color Selection",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 333,
+      "Title": "Color palettes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 332,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 334,
+      "Title": "Understanding color theory principles",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 333,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 335,
+      "Title": "Color psychology",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 333,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 336,
+      "Title": "Creating harmonious color schemes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 333,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 337,
+      "Title": "Custom colors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 332,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 338,
+      "Title": "Using HEX, RGB, or HSL values",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 337,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 339,
+      "Title": "Creating custom color palettes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 337,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 340,
+      "Title": "Consistency in color choices",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 337,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 341,
+      "Title": "Background",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 342,
+      "Title": "Background color",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 341,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 343,
+      "Title": "Selecting a suitable background color",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 342,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 344,
+      "Title": "Contrast with other design elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 342,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 345,
+      "Title": "Creating visual hierarchy",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 342,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 346,
+      "Title": "Gradient background",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 341,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 347,
+      "Title": "Understanding gradient types (linear, radial, angular)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 346,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 348,
+      "Title": "Creating smooth transitions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 346,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 349,
+      "Title": "Balancing color stops and transparency",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 346,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 350,
+      "Title": "Image background",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 341,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 351,
+      "Title": "Choosing relevant and high-quality images",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 350,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 352,
+      "Title": "Adjusting opacity and overlay effects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 350,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 353,
+      "Title": "Complementing the design elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 350,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 354,
+      "Title": "Patterns and textures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 341,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 355,
+      "Title": "Utilizing patterns and textures effectively",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 354,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 356,
+      "Title": "Creating depth and visual interest",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 354,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 357,
+      "Title": "Ensuring readability and clarity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 354,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 358,
+      "Title": "Transparent background",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 341,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 359,
+      "Title": "Removing background from images",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 358,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 360,
+      "Title": "Using transparent elements strategically",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 358,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 361,
+      "Title": "Integrating designs seamlessly",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 358,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 362,
+      "Title": "Effects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 363,
+      "Title": "Shadows",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 362,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 364,
+      "Title": "Adding shadows to objects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 363,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 365,
+      "Title": "Adjusting shadow opacity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 363,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 366,
+      "Title": "Modifying shadow color",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 363,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 367,
+      "Title": "Blurs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 362,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 368,
+      "Title": "Applying blur effects to objects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 367,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 369,
+      "Title": "Adjusting blur intensity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 367,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 370,
+      "Title": "Glows",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 362,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 371,
+      "Title": "Creating glowing effects on objects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 370,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 372,
+      "Title": "Adjusting glow intensity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 370,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 373,
+      "Title": "Modifying glow color",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 370,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 374,
+      "Title": "Reflections",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 362,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 375,
+      "Title": "Adding reflections to objects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 374,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 376,
+      "Title": "Adjusting reflection opacity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 374,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 377,
+      "Title": "Modifying reflection angle",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 374,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 378,
+      "Title": "Filters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 379,
+      "Title": "Image Filters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 378,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 380,
+      "Title": "Applying various filters to images",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 379,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 381,
+      "Title": "Adjusting filter intensity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 379,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 382,
+      "Title": "Modifying filter parameters (e.g., brightness, contrast, saturation)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 379,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 383,
+      "Title": "Color Filters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 378,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 384,
+      "Title": "Applying color filters to change the overall color tone of an image",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 383,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 385,
+      "Title": "Adjusting filter intensity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 383,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 386,
+      "Title": "Modifying filter parameters (e.g., hue, temperature, tint)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 383,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 387,
+      "Title": "Duotone",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 378,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 388,
+      "Title": "Creating a two-color overlay effect on images",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 387,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 389,
+      "Title": "Selecting primary and secondary colors for the duotone effect",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 387,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 390,
+      "Title": "Gradients",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 378,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 391,
+      "Title": "Applying gradient effects to objects or backgrounds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 390,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 392,
+      "Title": "Customizing gradient colors and directions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 390,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 393,
+      "Title": "Vignette",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 378,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 394,
+      "Title": "Adding a dark or light vignette effect around the edges of an image",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 393,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 395,
+      "Title": "Adjusting vignette intensity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 393,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 396,
+      "Title": "Noise",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 378,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 397,
+      "Title": "Applying noise effects to images for a vintage or textured look",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 396,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 398,
+      "Title": "Adjusting noise intensity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 396,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 399,
+      "Title": "Pixelate",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 378,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 400,
+      "Title": "Creating a pixelated effect on images",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 399,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 401,
+      "Title": "Adjusting pixelation level",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 399,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 402,
+      "Title": "Distortions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 378,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 403,
+      "Title": "Applying distortion effects to objects or images",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 402,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 404,
+      "Title": "Modifying distortion parameters (e.g., ripple, wave, bulge)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 402,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 405,
+      "Title": "Artistic",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 378,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 406,
+      "Title": "Adding artistic effects to images, such as oil painting, watercolor, or sketch styles",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 405,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 407,
+      "Title": "Adjusting effect intensity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 405,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 408,
+      "Title": "Layouts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 409,
+      "Title": "Grids",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 408,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 410,
+      "Title": "Setting up grid lines and columns",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 409,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 411,
+      "Title": "Adjusting grid spacing and alignment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 409,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 412,
+      "Title": "Utilizing grid-based layouts for consistent designs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 409,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 413,
+      "Title": "Guides",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 408,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 414,
+      "Title": "Adding and customizing guides to align objects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 413,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 415,
+      "Title": "Using guides for precise placement and alignment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 413,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 416,
+      "Title": "Snapping objects to guides for accurate positioning",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 413,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 417,
+      "Title": "Frames",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 408,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 418,
+      "Title": "Creating frames to group and organize elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 417,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 419,
+      "Title": "Adjusting frame dimensions and proportions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 417,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 420,
+      "Title": "Nesting frames to create complex layouts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 417,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 421,
+      "Title": "Alignment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 422,
+      "Title": "Object Alignment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 421,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 423,
+      "Title": "Aligning objects to a specific position or relative to other objects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 422,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 424,
+      "Title": "Distributing objects evenly along a given axis",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 422,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 425,
+      "Title": "Using alignment options like left, center, right, top, middle, and bottom",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 422,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 426,
+      "Title": "Layer Ordering",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 421,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 427,
+      "Title": "Managing the order of objects in the layer stack",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 426,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 428,
+      "Title": "Moving objects forward or backward",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 426,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 429,
+      "Title": "Arranging objects in front or behind other elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 426,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 430,
+      "Title": "Smart Positioning",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 421,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 431,
+      "Title": "Aligning objects automatically based on proximity or alignment rules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 430,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 432,
+      "Title": "Enabling smart positioning to align objects evenly and precisely",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 430,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 433,
+      "Title": "Utilizing smart guides for quick alignment and spacing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 430,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 434,
+      "Title": "Distribution and Spacing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 421,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 435,
+      "Title": "Distributing objects evenly with equal spacing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 434,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 436,
+      "Title": "Adjusting the space between objects horizontally or vertically",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 434,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 437,
+      "Title": "Creating consistent gaps between elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 434,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 438,
+      "Title": "Snap to Grid and Objects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 421,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 439,
+      "Title": "Enabling snap-to-grid functionality for precise alignment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 438,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 440,
+      "Title": "Snapping objects to other objects or elements for alignment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 438,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 441,
+      "Title": "Aligning objects to the grid for a consistent layout",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 438,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 442,
+      "Title": "Adjusting snap sensitivity to control object alignment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 438,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 443,
+      "Title": "Collaboration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 11,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 444,
+      "Title": "Inviting Collaborators",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 443,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 445,
+      "Title": "Sharing design access",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 444,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 446,
+      "Title": "Managing collaborator permissions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 444,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 447,
+      "Title": "Sending invitation links",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 444,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 448,
+      "Title": "Removing collaborators",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 444,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 449,
+      "Title": "Collaborator comments and feedback",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 444,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 450,
+      "Title": "Sharing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 11,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 451,
+      "Title": "Sharing Design",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 450,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 452,
+      "Title": "Sharing designs with specific individuals or groups",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 451,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 453,
+      "Title": "Design sharing options (view, edit, comment)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 451,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 454,
+      "Title": "Generating shareable links",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 451,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 455,
+      "Title": "Setting design visibility (public, private)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 451,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 456,
+      "Title": "Managing shared designs (unsharing, updating access)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 451,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 457,
+      "Title": "Collaboration link expiration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 451,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 458,
+      "Title": "Email sharing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 451,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 459,
+      "Title": "Embedding",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 450,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 460,
+      "Title": "Embedding designs in websites or blogs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 459,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 461,
+      "Title": "Adjusting embedded design settings (size, visibility)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 459,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 462,
+      "Title": "Generating embed codes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 459,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 463,
+      "Title": "Updating embedded designs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 459,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 464,
+      "Title": "Removing embedded designs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 459,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 465,
+      "Title": "Social Media Integration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 450,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 466,
+      "Title": "Direct sharing to social media platforms (Facebook, Twitter, LinkedIn, etc.)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 465,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 467,
+      "Title": "Scheduling social media posts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 465,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 468,
+      "Title": "Linking social media accounts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 465,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 469,
+      "Title": "Customizing post captions and descriptions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 465,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 470,
+      "Title": "Monitoring social media performance",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 465,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 471,
+      "Title": "Presentations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 450,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 472,
+      "Title": "Presenting designs in a slideshow format",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 471,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 473,
+      "Title": "Customizing slide transitions, timings, and autoplay settings",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 471,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 474,
+      "Title": "Sharing presentation links",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 471,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 475,
+      "Title": "Collaborative editing during presentations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 471,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 476,
+      "Title": "Exporting presentations as PDF or video files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 471,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 477,
+      "Title": "Brand Collaboration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 450,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 478,
+      "Title": "Collaborating with team members on brand assets",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 477,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 479,
+      "Title": "Managing brand assets and guidelines",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 477,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 480,
+      "Title": "Setting brand permissions and access levels",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 477,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 481,
+      "Title": "Ensuring brand consistency across designs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 477,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 482,
+      "Title": "Exporting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 483,
+      "Title": "Export formats",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 482,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 484,
+      "Title": "PNG",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 483,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 485,
+      "Title": "JPEG",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 483,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 486,
+      "Title": "PDF",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 483,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 487,
+      "Title": "Image optimization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 482,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 488,
+      "Title": "Compression",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 487,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 489,
+      "Title": "Resolution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 487,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 490,
+      "Title": "Transparent backgrounds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 482,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 491,
+      "Title": "Removing backgrounds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 490,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 492,
+      "Title": "Saving as transparent",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 490,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 493,
+      "Title": "Printing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 494,
+      "Title": "Print specifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 493,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 495,
+      "Title": "Bleed and trim marks",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 494,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 496,
+      "Title": "Color modes (CMYK vs. RGB)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 494,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 497,
+      "Title": "DPI (dots per inch)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 494,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 498,
+      "Title": "Document size and layout",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 493,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 499,
+      "Title": "Custom dimensions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 498,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 500,
+      "Title": "Page orientation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 498,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 501,
+      "Title": "Print preparation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 493,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 502,
+      "Title": "Margins and safe zones",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 501,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 503,
+      "Title": "Checking resolution and quality",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 501,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 504,
+      "Title": "Print-ready file formats",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 493,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 505,
+      "Title": "PDF/X-1a",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 504,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 506,
+      "Title": "TIFF",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 504,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 507,
+      "Title": "Printing services",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 493,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 508,
+      "Title": "Online printing platforms",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 507,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 509,
+      "Title": "Local print shops",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 507,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 510,
+      "Title": "Animation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 13,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 511,
+      "Title": "Object animation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 510,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 512,
+      "Title": "Keyframes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 511,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 513,
+      "Title": "Timing and duration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 511,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 514,
+      "Title": "Easing and motion paths",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 511,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 515,
+      "Title": "Video Editing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 13,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 516,
+      "Title": "Timeline and layers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 515,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 517,
+      "Title": "Editing video clips and images",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 516,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 518,
+      "Title": "Trimming and splitting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 516,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 519,
+      "Title": "Layering and arranging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 516,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 520,
+      "Title": "Transitions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 515,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 521,
+      "Title": "Adding transitions between video clips",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 520,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 522,
+      "Title": "Transition effects and timing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 520,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 523,
+      "Title": "Audio editing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 515,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 524,
+      "Title": "Importing and editing audio",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 523,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 525,
+      "Title": "Adjusting volume and adding effects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 523,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 526,
+      "Title": "Custom Dimensions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 13,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 527,
+      "Title": "Setting custom dimensions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 526,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 528,
+      "Title": "Choosing custom width and height",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 527,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 529,
+      "Title": "Preserving aspect ratio",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 527,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 530,
+      "Title": "Creating designs for specific platforms or purposes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 527,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 531,
+      "Title": "Brand Kits",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 13,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 532,
+      "Title": "Uploading brand assets",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 531,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 533,
+      "Title": "Importing logos, fonts, and color palettes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 532,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 534,
+      "Title": "Organizing and managing brand assets",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 532,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 535,
+      "Title": "Brand styles",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 531,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 536,
+      "Title": "Defining consistent typography and colors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 535,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 537,
+      "Title": "Applying brand styles to designs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 535,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 538,
+      "Title": "Interactive Elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 13,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 539,
+      "Title": "Buttons",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 538,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 540,
+      "Title": "Adding interactive buttons to designs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 539,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 541,
+      "Title": "Linking buttons to external URLs or pages",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 539,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 542,
+      "Title": "Hotspots",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 538,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 543,
+      "Title": "Creating clickable areas on images or designs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 542,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 544,
+      "Title": "Linking hotspots to additional content or information",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 542,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 545,
+      "Title": "Embedding",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 538,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 546,
+      "Title": "Embedding multimedia content like videos or maps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 545,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 547,
+      "Title": "Customizing embedded content",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 545,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 548,
+      "Title": "Print Design and Specifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 13,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 549,
+      "Title": "Bleed and trim marks",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 548,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 550,
+      "Title": "Understanding bleed and trim for professional printing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 549,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 551,
+      "Title": "Adding bleed and trim marks to designs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 549,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 552,
+      "Title": "Color profiles",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 548,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 553,
+      "Title": "Choosing appropriate color profiles for print",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 552,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 554,
+      "Title": "Converting designs to CMYK for accurate printing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 552,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    }
+  ],
+  "NotesCollection": [
+    {
+      "NotesCollectionID": 1,
+      "Title": "Default Collection",
+      "Selected": true,
+      "ProjectFK": 1,
+      "Project": null,
+      "Note": []
+    }
+  ]
+}
