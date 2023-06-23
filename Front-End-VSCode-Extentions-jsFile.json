@@ -1,0 +1,3606 @@
+{
+  "ProjectID": 1,
+  "Name": "Front-End VSCode Extentions",
+  "Packets": [
+    {
+      "PacketID": 1,
+      "Title": " Front-End VSCode Extentions",
+      "Resume": null,
+      "Selected": true,
+      "ParentID": null,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 2,
+      "Title": "ESLint",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 3,
+      "Title": "Prettier",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 4,
+      "Title": "HTML CSS Support",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 5,
+      "Title": "Auto Rename Tag",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 7,
+      "Title": "Path Intellisense",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 8,
+      "Title": "Debugger for Chrome",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 9,
+      "Title": "Live Server",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 10,
+      "Title": "GitLens",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 14,
+      "Title": "Rules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 15,
+      "Title": "Rule Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 14,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 16,
+      "Title": "Rule Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 15,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 17,
+      "Title": "Rule Severity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 15,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 18,
+      "Title": "Rule Options",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 15,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 19,
+      "Title": "Rule Overrides",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 15,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 20,
+      "Title": "Enabling/Disabling Rules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 15,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 21,
+      "Title": "Rule Priorities",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 15,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 22,
+      "Title": "Rule Categories",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 15,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 23,
+      "Title": "Rule Plugin Integration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 15,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 24,
+      "Title": "Custom Rule Creation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 15,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 25,
+      "Title": "Plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 26,
+      "Title": "Plugin Installation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 25,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 27,
+      "Title": "Installing Plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 26,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 28,
+      "Title": "Plugin Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 26,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 29,
+      "Title": "Plugin Rules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 26,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 30,
+      "Title": "Plugin Usage",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 26,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 31,
+      "Title": "Creating Custom Plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 26,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 32,
+      "Title": "Configurations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 33,
+      "Title": "Configuration Files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 32,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 34,
+      "Title": "Configuration File Setup",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 35,
+      "Title": "ESLint Configuration Format",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 36,
+      "Title": "Extending Configurations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 37,
+      "Title": "Shareable Configurations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 38,
+      "Title": "Ignoring Files and Directories",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 39,
+      "Title": "Configuration Overrides",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 40,
+      "Title": "Cascading Configurations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 41,
+      "Title": "Environment-Specific Configurations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 42,
+      "Title": "Using .eslintrc.* Files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 43,
+      "Title": "Inline Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 44,
+      "Title": "Disabling Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 45,
+      "Title": "Configuration Precedence",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 46,
+      "Title": "Configuration Inheritance",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 47,
+      "Title": "Configuration Comments",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 48,
+      "Title": "Configuration Environments",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 49,
+      "Title": "Shareable Configuration Packages",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 50,
+      "Title": "Configuring Parsers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 51,
+      "Title": "Configuring Plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 52,
+      "Title": "Configuring Rules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 53,
+      "Title": "Configuring Rule Overrides",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 54,
+      "Title": "Configuring Environments",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 55,
+      "Title": "ESLint Configuration Cookbook",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 33,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 60,
+      "Title": "CLI",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 61,
+      "Title": "CLI Usage",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 60,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 62,
+      "Title": "Running ESLint from the Command Line",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 63,
+      "Title": "Specifying Files and Directories",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 64,
+      "Title": "Specifying Global Variables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 65,
+      "Title": "Specifying Environments",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 66,
+      "Title": "Using ESLint with Configurations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 67,
+      "Title": "Linting with Plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 68,
+      "Title": "Fixing Problems Automatically",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 69,
+      "Title": "Ignoring Files and Directories",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 70,
+      "Title": "Handling Warnings as Errors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 71,
+      "Title": "Outputting Results",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 72,
+      "Title": "Using Formatters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 73,
+      "Title": "Controlling Output",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 74,
+      "Title": "Applying Fixes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 75,
+      "Title": "Handling Multiple Files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 76,
+      "Title": "Integrating with Build Systems",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 77,
+      "Title": "Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 78,
+      "Title": ".prettierrc",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 77,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 79,
+      "Title": "Configuring Prettier through a JSON or YAML file",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 78,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 80,
+      "Title": "package.json",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 77,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 81,
+      "Title": "Configuring Prettier settings within the package.json file",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 80,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 82,
+      "Title": "Editor-specific settings",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 77,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 83,
+      "Title": "Integrating Prettier with specific text editors (e.g., Visual Studio Code, Sublime Text)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 82,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 84,
+      "Title": "Formatting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 85,
+      "Title": "Line length",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 84,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 86,
+      "Title": "Specifying the maximum line length for wrapping long lines",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 85,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 87,
+      "Title": "Indentation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 84,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 88,
+      "Title": "Defining the desired indentation style (spaces, tabs)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 87,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 89,
+      "Title": "Braces and brackets",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 84,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 90,
+      "Title": "Enforcing consistent placement of braces and brackets",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 89,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 91,
+      "Title": "Trailing commas",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 84,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 92,
+      "Title": "Controlling the usage of trailing commas in arrays and objects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 91,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 93,
+      "Title": "Quotes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 84,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 94,
+      "Title": "Choosing between single or double quotes for strings",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 93,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 95,
+      "Title": "Spacing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 84,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 96,
+      "Title": "Determining the spacing around operators, commas, and other elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 95,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 97,
+      "Title": "Parentheses",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 84,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 98,
+      "Title": "Managing the placement and spacing of parentheses",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 97,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 99,
+      "Title": "Integration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 100,
+      "Title": "Editor plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 99,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 101,
+      "Title": "Installing Prettier plugins for various text editors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 100,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 102,
+      "Title": "Build tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 99,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 103,
+      "Title": "Integrating Prettier with build tools like webpack, Gulp, or Grunt",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 102,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 104,
+      "Title": "Git hooks",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 99,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 105,
+      "Title": "Setting up Git hooks to automatically format code before committing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 104,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 106,
+      "Title": "Pre-commit and CI checks",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 99,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 107,
+      "Title": "Including Prettier checks as part of pre-commit and continuous integration (CI) workflows",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 106,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 108,
+      "Title": "Editor integrations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 99,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 109,
+      "Title": "Leveraging Prettier integrations within code editors for on-the-fly formatting and auto-save functionality",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 108,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 110,
+      "Title": "Autocompletion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 111,
+      "Title": "HTML tags",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 110,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 112,
+      "Title": "Basic HTML tags",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 111,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 113,
+      "Title": "HTML attributes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 111,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 114,
+      "Title": "HTML event handlers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 111,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 115,
+      "Title": "CSS properties",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 110,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 116,
+      "Title": "Common CSS properties",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 115,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 117,
+      "Title": "Vendor-specific CSS properties",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 115,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 118,
+      "Title": "CSS shorthand properties",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 115,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 119,
+      "Title": "CSS values",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 110,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 120,
+      "Title": "Color names and values",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 119,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 121,
+      "Title": "Measurement units",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 119,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 122,
+      "Title": "CSS function calls",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 119,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 123,
+      "Title": "CSS class name support",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 124,
+      "Title": "Class name autocompletion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 123,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 125,
+      "Title": "Existing class names",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 124,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 126,
+      "Title": "Suggested class names based on project structure",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 124,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 127,
+      "Title": "Class name suggestions based on CSS selectors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 124,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 128,
+      "Title": "CSS class name validation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 123,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 129,
+      "Title": "Detecting unused class names",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 128,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 130,
+      "Title": "Highlighting conflicting class names",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 128,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 131,
+      "Title": "Resolving conflicting class names",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 128,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 132,
+      "Title": "CSS selector support",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 133,
+      "Title": "Basic selectors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 132,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 134,
+      "Title": "Element selector",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 133,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 135,
+      "Title": "ID selector",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 133,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 136,
+      "Title": "Class selector",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 133,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 137,
+      "Title": "Attribute selector",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 133,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 138,
+      "Title": "Advanced selectors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 132,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 139,
+      "Title": "Descendant selector",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 138,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 140,
+      "Title": "Child selector",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 138,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 141,
+      "Title": "Adjacent sibling selector",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 138,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 142,
+      "Title": "General sibling selector",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 138,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 143,
+      "Title": "Code formatting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 144,
+      "Title": "Indentation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 143,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 145,
+      "Title": "Configuring tab size",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 144,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 146,
+      "Title": "Choosing indentation style",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 144,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 147,
+      "Title": "CSS formatting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 143,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 148,
+      "Title": "Configuring line breaks",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 147,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 149,
+      "Title": "Sorting CSS properties",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 147,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 150,
+      "Title": "HTML formatting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 143,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 151,
+      "Title": "Formatting HTML tags",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 150,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 152,
+      "Title": "Auto Rename Tag",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 153,
+      "Title": "Renaming tags",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 152,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 154,
+      "Title": "Detecting opening and closing tags",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 153,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 155,
+      "Title": "Updating the corresponding opening or closing tag when the other is renamed",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 153,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 156,
+      "Title": "Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 152,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 157,
+      "Title": "Customizing the behavior of the extension",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 156,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 158,
+      "Title": "Specifying which file types to apply the auto rename functionality to",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 156,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 159,
+      "Title": "Compatibility",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 152,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 160,
+      "Title": "Ensuring compatibility with different file types, including HTML, XML, JSX, and more",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 159,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 161,
+      "Title": "Error handling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 152,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 162,
+      "Title": "Handling errors gracefully when renaming tags",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 161,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 163,
+      "Title": "Providing helpful error messages and notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 161,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 164,
+      "Title": "User interface (UI)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 152,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 165,
+      "Title": "Integration with the Visual Studio Code interface",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 164,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 166,
+      "Title": "Providing visual feedback when renaming tags",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 164,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 167,
+      "Title": "Keyboard shortcuts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 152,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 168,
+      "Title": "Assigning keyboard shortcuts for triggering the auto rename functionality",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 167,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 173,
+      "Title": "IntelliSense for CSS class names",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 174,
+      "Title": "Autocompletion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 173,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 175,
+      "Title": "Class name suggestions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 174,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 176,
+      "Title": "CSS property suggestions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 174,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 177,
+      "Title": "CSS value suggestions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 174,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 178,
+      "Title": "Code navigation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 173,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 179,
+      "Title": "Jump to definition",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 178,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 180,
+      "Title": "Peek definition",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 178,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 181,
+      "Title": "Code inspection",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 173,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 182,
+      "Title": "Class name validation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 181,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 183,
+      "Title": "Duplicate class detection",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 181,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 184,
+      "Title": "Unused class detection",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 181,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 185,
+      "Title": "Code generation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 173,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 186,
+      "Title": "Generate CSS class names from HTML",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 185,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 187,
+      "Title": "Generate HTML class attribute from CSS",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 185,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 188,
+      "Title": "Documentation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 173,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 189,
+      "Title": "CSS class name documentation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 188,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 190,
+      "Title": "CSS property documentation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 188,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 191,
+      "Title": "Settings",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 173,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 192,
+      "Title": "Configuration options",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 191,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 193,
+      "Title": "Path Completion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 194,
+      "Title": "File path completion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 193,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 195,
+      "Title": "Auto-completing file paths in your code",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 194,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 196,
+      "Title": "Folder path completion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 193,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 197,
+      "Title": "Auto-completing folder paths in your code",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 196,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 198,
+      "Title": "Package path completion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 193,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 199,
+      "Title": "Auto-completing package/module paths in your code",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 198,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 200,
+      "Title": "Import Statements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 201,
+      "Title": "Import statement completion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 200,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 202,
+      "Title": "Auto-completing import statements in your code",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 201,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 203,
+      "Title": "Import path normalization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 200,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 204,
+      "Title": "Normalizing import paths to conform to a consistent format",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 203,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 205,
+      "Title": "Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 206,
+      "Title": "Path aliases configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 205,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 207,
+      "Title": "Defining aliases for commonly used paths",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 206,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 208,
+      "Title": "File extensions configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 205,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 209,
+      "Title": "Specifying valid file extensions for path completion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 208,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 210,
+      "Title": "Excluded paths configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 205,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 211,
+      "Title": "Excluding specific paths from being suggested",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 210,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 212,
+      "Title": "Advanced Features",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 213,
+      "Title": "Go to Definition",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 212,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 214,
+      "Title": "Navigating to the definition of a file or folder",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 213,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 215,
+      "Title": "Open in Editor",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 212,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 216,
+      "Title": "Opening a file or folder directly in the editor",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 215,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 217,
+      "Title": "Path validation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 212,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 218,
+      "Title": "Validating paths to ensure they exist and are accessible",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 219,
+      "Title": "IntelliSense integration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 212,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 220,
+      "Title": "Integration with IntelliSense for enhanced suggestions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 219,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 221,
+      "Title": "Debugging Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 222,
+      "Title": "Launch Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 221,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 223,
+      "Title": "Configuring launch.json",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 222,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 224,
+      "Title": "Targeting Chrome for debugging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 222,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 225,
+      "Title": "Setting breakpoints",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 222,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 226,
+      "Title": "Specifying source maps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 222,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 227,
+      "Title": "Configuring remote debugging (if applicable)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 222,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 228,
+      "Title": "Working with multi-root workspaces",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 222,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 229,
+      "Title": "Debugging Controls",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 230,
+      "Title": "Debug Toolbar",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 229,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 231,
+      "Title": "Starting and stopping a debug session",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 230,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 232,
+      "Title": "Controlling program execution (step over, step into, step out, continue)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 230,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 233,
+      "Title": "Restarting the debug session",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 230,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 234,
+      "Title": "Handling breakpoints and conditions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 230,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 235,
+      "Title": "Managing watch expressions and variables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 230,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 236,
+      "Title": "Inspecting call stack and threads",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 230,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 237,
+      "Title": "Exception handling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 230,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 238,
+      "Title": "Debugging async code",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 230,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 239,
+      "Title": "Debugging Views",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 240,
+      "Title": "Debug Console",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 239,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 241,
+      "Title": "Viewing and interacting with program output and console messages",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 240,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 242,
+      "Title": "Evaluating expressions and executing code snippets",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 240,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 243,
+      "Title": "Using console APIs (console.log, console.error, etc.)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 240,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 244,
+      "Title": "Controlling console verbosity and filters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 240,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 245,
+      "Title": "Debugging network requests and responses",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 240,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 246,
+      "Title": "Breakpoints View",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 239,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 247,
+      "Title": "Managing breakpoints (setting, enabling/disabling, conditions)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 246,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 248,
+      "Title": "Conditional breakpoints",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 246,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 249,
+      "Title": "Hit counts and logpoints",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 246,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 250,
+      "Title": "Call Stack View",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 239,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 251,
+      "Title": "Viewing the stack trace",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 250,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 252,
+      "Title": "Navigating through stack frames",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 250,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 253,
+      "Title": "Examining local and global variables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 250,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 254,
+      "Title": "Variables View",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 239,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 255,
+      "Title": "Inspecting variable values",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 254,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 256,
+      "Title": "Modifying variable values",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 254,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 257,
+      "Title": "Adding watch expressions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 254,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 258,
+      "Title": "Working with scopes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 254,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 259,
+      "Title": "Threads View",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 239,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 260,
+      "Title": "Handling multiple threads and async code",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 259,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 261,
+      "Title": "Switching between threads",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 259,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 262,
+      "Title": "Examining thread states",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 259,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 263,
+      "Title": "Sources View",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 239,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 264,
+      "Title": "Navigating and exploring source files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 263,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 265,
+      "Title": "Setting and managing breakpoints in source code",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 263,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 266,
+      "Title": "Viewing and editing source code",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 263,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 267,
+      "Title": "Examining source file changes and history",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 263,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 268,
+      "Title": "Remote Debugging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 269,
+      "Title": "Remote Chrome Instances",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 268,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 270,
+      "Title": "Connecting to a remote Chrome instance for debugging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 269,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 271,
+      "Title": "Managing port forwarding and security",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 269,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 272,
+      "Title": "Setting up SSH tunnels",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 269,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 273,
+      "Title": "Debugging server-side code running in a remote environment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 269,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 274,
+      "Title": "Debugging Web Workers and Extensions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 275,
+      "Title": "Web Workers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 274,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 276,
+      "Title": "Debugging code running in web worker threads",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 275,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 277,
+      "Title": "Setting breakpoints and examining variables in web workers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 275,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 278,
+      "Title": "Browser Extensions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 274,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 279,
+      "Title": "Debugging browser extensions and add-ons",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 278,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 280,
+      "Title": "Inspecting extension code and interactions with browser APIs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 278,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 281,
+      "Title": "Handling extension-specific debugging scenarios",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 278,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 282,
+      "Title": "Advanced Debugging Features",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 283,
+      "Title": "Conditional Breakpoints",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 282,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 284,
+      "Title": "Setting breakpoints based on specific conditions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 283,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 285,
+      "Title": "Utilizing expressions and operators in conditions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 283,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 286,
+      "Title": "Local Server",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 287,
+      "Title": "Live Server Engine",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 286,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 288,
+      "Title": "Local web server",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 287,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 289,
+      "Title": "File watching and hot reloading",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 287,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 290,
+      "Title": "HTTP server configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 287,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 291,
+      "Title": "MIME types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 287,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 292,
+      "Title": "Response headers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 287,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 293,
+      "Title": "Routing and URL rewriting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 287,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 294,
+      "Title": "Browser Integration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 295,
+      "Title": "Live Browser",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 294,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 296,
+      "Title": "Browser extension installation and configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 295,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 297,
+      "Title": "Connection between VSCode and browser",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 295,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 298,
+      "Title": "Real-time synchronization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 295,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 299,
+      "Title": "Browser refresh and live preview",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 295,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 300,
+      "Title": "Browser debugging integration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 295,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 301,
+      "Title": "Extension Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 302,
+      "Title": "Settings",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 301,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 303,
+      "Title": "Configuration options for Live Server extension",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 302,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 304,
+      "Title": "Custom server port and hostname",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 302,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 305,
+      "Title": "Ignoring specific files or folders",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 302,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 306,
+      "Title": "Opening specific URLs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 302,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 307,
+      "Title": "Enabling/disabling features",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 302,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 308,
+      "Title": "Extensions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 301,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 309,
+      "Title": "Installing and managing other VSCode extensions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 308,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 310,
+      "Title": "Integrating with other extensions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 308,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 311,
+      "Title": "Enhancing functionality through extensions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 308,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 312,
+      "Title": "Keybindings",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 301,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 313,
+      "Title": "Defining custom keyboard shortcuts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 312,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 314,
+      "Title": "Keybindings for Live Server commands",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 312,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 315,
+      "Title": "Customizing keybinding preferences",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 312,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 316,
+      "Title": "Git Blame",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 317,
+      "Title": "Blame Annotations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 316,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 318,
+      "Title": "Code authorship tracking",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 317,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 319,
+      "Title": "Commit details",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 317,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 320,
+      "Title": "Commit message",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 317,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 321,
+      "Title": "Timestamp",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 317,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 322,
+      "Title": "Line changes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 317,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 323,
+      "Title": "Inline blame annotations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 317,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 324,
+      "Title": "Commit comparison",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 317,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 325,
+      "Title": "Git History",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 326,
+      "Title": "Commit Details",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 325,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 327,
+      "Title": "Commit message",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 326,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 328,
+      "Title": "Timestamp",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 326,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 329,
+      "Title": "Commit author",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 326,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 330,
+      "Title": "Line changes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 326,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 331,
+      "Title": "File tree navigation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 326,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 332,
+      "Title": "Compare with Previous Revisions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 325,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 333,
+      "Title": "Commit comparison",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 332,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 334,
+      "Title": "File changes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 332,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 335,
+      "Title": "Side-by-side comparison",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 332,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 336,
+      "Title": "Inline changes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 332,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 337,
+      "Title": "Annotations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 332,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 338,
+      "Title": "Git Annotations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 339,
+      "Title": "Current Line Blame Annotations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 338,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 340,
+      "Title": "Code authorship tracking",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 339,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 341,
+      "Title": "Commit details",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 339,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 342,
+      "Title": "Commit message",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 339,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 343,
+      "Title": "Timestamp",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 339,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 344,
+      "Title": "Line changes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 339,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 345,
+      "Title": "Git Stash",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 346,
+      "Title": "Stash List",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 345,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 347,
+      "Title": "Stash management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 346,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 348,
+      "Title": "Stash details",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 346,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 349,
+      "Title": "Stash Annotations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 345,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 350,
+      "Title": "Code authorship tracking",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 349,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 351,
+      "Title": "Commit details",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 349,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 352,
+      "Title": "Commit message",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 349,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 353,
+      "Title": "Timestamp",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 349,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 354,
+      "Title": "Line changes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 349,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 355,
+      "Title": "Stash navigation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 349,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 356,
+      "Title": "Git Repository Browser",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 357,
+      "Title": "Branches",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 356,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 358,
+      "Title": "Branch management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 357,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 359,
+      "Title": "Branch details",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 357,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 360,
+      "Title": "Branch creation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 357,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 361,
+      "Title": "Branch deletion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 357,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 362,
+      "Title": "Tags",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 356,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 363,
+      "Title": "Tag management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 362,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 364,
+      "Title": "Tag details",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 362,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 365,
+      "Title": "Tag creation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 362,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 366,
+      "Title": "Tag deletion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 362,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 367,
+      "Title": "Remotes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 356,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 368,
+      "Title": "Remote repository management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 367,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 369,
+      "Title": "Remote URL",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 367,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 370,
+      "Title": "Fetch and pull",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 367,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 371,
+      "Title": "Push and pull requests",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 367,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    }
+  ],
+  "NotesCollection": [
+    {
+      "NotesCollectionID": 1,
+      "Title": "Default Collection",
+      "Selected": true,
+      "ProjectFK": 1,
+      "Project": null,
+      "Note": []
+    }
+  ]
+}
