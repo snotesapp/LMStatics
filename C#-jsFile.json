@@ -414,7 +414,7 @@
     },
     {
       "PacketID": 44,
-      "Title": "Multiple inheritance (if supported by the programming language)",
+      "Title": "Multiple inheritance",
       "Resume": null,
       "Selected": false,
       "ParentID": 42,
