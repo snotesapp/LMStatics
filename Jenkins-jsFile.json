@@ -1,0 +1,5996 @@
+{
+  "ProjectID": 1,
+  "Name": "Jenkins",
+  "Packets": [
+    {
+      "PacketID": 1,
+      "Title": "Jenkins",
+      "Resume": null,
+      "Selected": true,
+      "ParentID": null,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 2,
+      "Title": "Jenkins Core",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 3,
+      "Title": "Jobs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 4,
+      "Title": "Build Triggers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 5,
+      "Title": "Plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 7,
+      "Title": "Pipelines",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 8,
+      "Title": "Agents/Nodes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 9,
+      "Title": "Artifacts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 11,
+      "Title": "Authentication and Authorization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 12,
+      "Title": "Distributed Builds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 13,
+      "Title": "Monitoring and Notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 14,
+      "Title": "Job Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 15,
+      "Title": "General settings",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 14,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 16,
+      "Title": "Job name and description",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 15,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 17,
+      "Title": "Concurrent build options",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 15,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 18,
+      "Title": "Build triggers and scheduling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 15,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 19,
+      "Title": "Source code management configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 15,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 20,
+      "Title": "Build environment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 14,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 21,
+      "Title": "Environment variables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 20,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 22,
+      "Title": "Build tools and dependencies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 20,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 23,
+      "Title": "Custom workspace",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 20,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 24,
+      "Title": "Build steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 14,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 25,
+      "Title": "Shell commands",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 24,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 26,
+      "Title": "Batch commands",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 24,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 27,
+      "Title": "Script execution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 24,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 28,
+      "Title": "Plugin integrations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 24,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 29,
+      "Title": "Build triggers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 14,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 30,
+      "Title": "Scheduled builds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 29,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 31,
+      "Title": "SCM changes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 29,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 32,
+      "Title": "Manual builds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 29,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 33,
+      "Title": "Dependency triggers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 29,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 34,
+      "Title": "Post-Build Actions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 35,
+      "Title": "Notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 34,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 36,
+      "Title": "Email notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 35,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 37,
+      "Title": "Chat notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 35,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 38,
+      "Title": "Custom notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 35,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 39,
+      "Title": "Integration with external systems",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 35,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 40,
+      "Title": "Reporting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 34,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 41,
+      "Title": "Test result publishing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 40,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 42,
+      "Title": "Code coverage reports",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 40,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 43,
+      "Title": "Static code analysis",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 40,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 44,
+      "Title": "Custom reporting tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 40,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 45,
+      "Title": "Artifact archiving",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 34,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 46,
+      "Title": "Archiving build artifacts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 45,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 47,
+      "Title": "Custom artifact storage locations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 45,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 48,
+      "Title": "Retention policies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 45,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 49,
+      "Title": "Deployment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 34,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 50,
+      "Title": "Deploying to different environments",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 49,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 51,
+      "Title": "Integration with deployment tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 49,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 52,
+      "Title": "Rollback and versioning",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 49,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 53,
+      "Title": "Cleanup and post-processing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 34,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 54,
+      "Title": "Cleaning up workspace",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 53,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 55,
+      "Title": "Generating reports and documentation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 53,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 56,
+      "Title": "Triggering downstream jobs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 53,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 57,
+      "Title": "Parameters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 58,
+      "Title": "Input parameters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 57,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 59,
+      "Title": "User-defined input fields",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 58,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 60,
+      "Title": "Parameterized builds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 58,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 61,
+      "Title": "Prompting for input during build",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 58,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 62,
+      "Title": "Environment variables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 57,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 63,
+      "Title": "Defining custom environment variables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 62,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 64,
+      "Title": "Using parameters in build steps and scripts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 62,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 65,
+      "Title": "Conditional execution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 57,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 66,
+      "Title": "Conditional steps based on parameter values",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 65,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 67,
+      "Title": "Skipping steps based on conditions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 65,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 68,
+      "Title": "Source Code Management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 69,
+      "Title": "Version control systems",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 68,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 70,
+      "Title": "Git",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 69,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 71,
+      "Title": "Subversion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 69,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 72,
+      "Title": "Mercurial",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 69,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 73,
+      "Title": "Perforce",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 69,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 74,
+      "Title": "CVS",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 69,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 75,
+      "Title": "Branches and tags",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 68,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 76,
+      "Title": "Branches for parallel development",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 75,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 77,
+      "Title": "Tagging releases and milestones",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 75,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 78,
+      "Title": "Branch management strategies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 75,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 79,
+      "Title": "Polling and triggers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 68,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 80,
+      "Title": "Polling for SCM changes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 79,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 81,
+      "Title": "Webhooks and push triggers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 79,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 82,
+      "Title": "Triggering builds on specific branches or tags",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 79,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 83,
+      "Title": "Build History and Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 84,
+      "Title": "Build history",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 83,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 85,
+      "Title": "Tracking build results and status",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 84,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 86,
+      "Title": "Build logs and console output",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 84,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 87,
+      "Title": "Build duration and timing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 84,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 88,
+      "Title": "Monitoring and dashboards",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 83,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 89,
+      "Title": "Build status overview",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 88,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 90,
+      "Title": "Customizing build views and dashboards",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 88,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 91,
+      "Title": "Monitoring build queue",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 88,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 92,
+      "Title": "Build statistics and trends",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 83,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 93,
+      "Title": "Build success rate and failure analysis",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 92,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 94,
+      "Title": "Trend analysis for code quality metrics",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 92,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 95,
+      "Title": "Historical build comparisons",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 92,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 96,
+      "Title": "Scheduled Builds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 97,
+      "Title": "Cron-based Triggers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 96,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 98,
+      "Title": "Cron expressions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 97,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 99,
+      "Title": "Scheduling options (e.g., specific times, intervals)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 97,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 100,
+      "Title": "Timezone considerations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 97,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 101,
+      "Title": "Specifying days of the week/month",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 97,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 102,
+      "Title": "Managing overlapping schedules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 97,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 103,
+      "Title": "Configuring quiet periods",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 97,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 104,
+      "Title": "Pipeline-specific scheduling options",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 97,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 105,
+      "Title": "SCM Changes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 106,
+      "Title": "Poll SCM",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 105,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 107,
+      "Title": "Periodically polling SCM repositories",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 106,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 108,
+      "Title": "Specifying the polling interval",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 106,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 109,
+      "Title": "Ignoring certain files or directories",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 106,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 110,
+      "Title": "Polling specific branches or tags",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 106,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 111,
+      "Title": "Detecting changes since the last build",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 106,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 112,
+      "Title": "Webhooks",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 105,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 113,
+      "Title": "Configuring webhooks for push events",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 112,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 114,
+      "Title": "Receiving notifications from SCM providers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 112,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 115,
+      "Title": "Handling payload and signature verification",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 112,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 116,
+      "Title": "Filtering events based on branch or repository",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 112,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 117,
+      "Title": "Triggering builds on specific events",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 112,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 118,
+      "Title": "Configuring secret tokens for security",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 112,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 119,
+      "Title": "Git Hooks",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 105,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 120,
+      "Title": "Installing and configuring Git hooks",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 119,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 121,
+      "Title": "Hooks for pre-commit, post-commit, etc.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 119,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 122,
+      "Title": "Writing custom hooks for triggering builds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 119,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 123,
+      "Title": "Handling hook execution errors",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 119,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 124,
+      "Title": "Communicating hook status to Jenkins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 119,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 125,
+      "Title": "Controlling hook behavior (blocking, asynchronous)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 119,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 126,
+      "Title": "Integrating with different SCM tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 119,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 127,
+      "Title": "Other SCM-specific Triggers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 105,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 128,
+      "Title": "Integration with specific SCM tools (e.g., SVN, CVS)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 129,
+      "Title": "Understanding SCM-specific event handling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 130,
+      "Title": "Customizing triggers for different SCM providers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 131,
+      "Title": "Handling SCM authentication and access",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 132,
+      "Title": "Optimizing performance for large repositories",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 133,
+      "Title": "Handling concurrent SCM changes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 134,
+      "Title": "Validating SCM credentials and configurations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 135,
+      "Title": "External Events",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 136,
+      "Title": "Jenkins CLI",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 135,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 137,
+      "Title": "Executing builds via the command-line interface",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 136,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 138,
+      "Title": "Passing build parameters and options",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 136,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 139,
+      "Title": "Authenticating and securing CLI access",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 136,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 140,
+      "Title": "Managing Jenkins CLI plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 136,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 141,
+      "Title": "Troubleshooting CLI connection issues",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 136,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 142,
+      "Title": "REST API",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 135,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 143,
+      "Title": "Invoking builds using REST API endpoints",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 142,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 144,
+      "Title": "Passing parameters and payload in API requests",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 142,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 145,
+      "Title": "Authenticating and securing API access",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 142,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 146,
+      "Title": "Managing API tokens and permissions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 142,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 147,
+      "Title": "Version compatibility and API changes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 142,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 148,
+      "Title": "Error handling and response codes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 142,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 149,
+      "Title": "Monitoring and rate limiting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 142,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 150,
+      "Title": "Testing and validating API integrations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 142,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 151,
+      "Title": "Source Control",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 152,
+      "Title": "Git Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 151,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 153,
+      "Title": "Cloning repositories",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 152,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 154,
+      "Title": "Subversion Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 151,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 155,
+      "Title": "Checking out code",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 154,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 156,
+      "Title": "CVS Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 151,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 157,
+      "Title": "Mercurial Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 151,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 158,
+      "Title": "Perforce Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 151,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 159,
+      "Title": "Other SCM plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 151,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 160,
+      "Title": "Build Tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 161,
+      "Title": "Maven Integration Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 160,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 162,
+      "Title": "Building projects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 161,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 163,
+      "Title": "Gradle Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 160,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 164,
+      "Title": "Configuring build steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 163,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 165,
+      "Title": "Ant Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 160,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 166,
+      "Title": "Specifying build targets",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 165,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 167,
+      "Title": "MSBuild Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 160,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 168,
+      "Title": "Testing Frameworks",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 169,
+      "Title": "JUnit Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 168,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 170,
+      "Title": "Publishing test results",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 169,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 171,
+      "Title": "NUnit Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 168,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 172,
+      "Title": "Configuring test environments",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 171,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 173,
+      "Title": "TestNG Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 168,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 174,
+      "Title": "Other testing plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 168,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 175,
+      "Title": "Notification",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 176,
+      "Title": "Email Extension Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 175,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 177,
+      "Title": "Sending email notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 176,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 178,
+      "Title": "Slack Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 175,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 179,
+      "Title": "Configuring Slack integration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 178,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 180,
+      "Title": "HipChat Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 175,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 181,
+      "Title": "Mattermost Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 175,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 182,
+      "Title": "Other notification plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 175,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 183,
+      "Title": "Reporting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 184,
+      "Title": "HTML Publisher Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 183,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 185,
+      "Title": "Publishing HTML reports",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 184,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 186,
+      "Title": "Cobertura Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 183,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 187,
+      "Title": "Code coverage reports",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 186,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 188,
+      "Title": "JaCoCo Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 183,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 189,
+      "Title": "Code coverage reports",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 188,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 190,
+      "Title": "Checkstyle Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 183,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 191,
+      "Title": "Static code analysis",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 190,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 192,
+      "Title": "FindBugs Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 183,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 193,
+      "Title": "Other reporting plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 183,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 194,
+      "Title": "Deployment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 195,
+      "Title": "Deploy to Container Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 194,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 196,
+      "Title": "Deploying artifacts to containers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 195,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 197,
+      "Title": "Deploy to Tomcat Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 194,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 198,
+      "Title": "Configuring deployment settings",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 197,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 199,
+      "Title": "JBoss Deployment Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 194,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 200,
+      "Title": "Other deployment plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 194,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 201,
+      "Title": "Integration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 202,
+      "Title": "Docker Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 201,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 203,
+      "Title": "Building and pushing Docker images",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 202,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 204,
+      "Title": "Kubernetes Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 201,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 205,
+      "Title": "Deploying to Kubernetes clusters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 204,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 206,
+      "Title": "AWS EC2 Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 201,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 207,
+      "Title": "Provisioning and managing AWS EC2 instances",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 206,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 208,
+      "Title": "Google Cloud Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 201,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 209,
+      "Title": "Other integration plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 201,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 210,
+      "Title": "Security",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 211,
+      "Title": "Role-based Authorization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 210,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 212,
+      "Title": "Defining user roles and permissions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 211,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 213,
+      "Title": "Active Directory Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 210,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 214,
+      "Title": "Authenticating against Active Directory",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 213,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 215,
+      "Title": "LDAP Plugin",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 210,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 216,
+      "Title": "Other security plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 210,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 217,
+      "Title": "Build Steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 218,
+      "Title": "Compilation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 219,
+      "Title": "Compiling source code",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 218,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 220,
+      "Title": "Testing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 221,
+      "Title": "Running unit tests",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 220,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 222,
+      "Title": "Executing integration tests",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 220,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 223,
+      "Title": "Code Analysis",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 224,
+      "Title": "Performing static code analysis",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 223,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 225,
+      "Title": "Checking code quality",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 223,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 226,
+      "Title": "Packaging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 227,
+      "Title": "Creating artifacts (e.g., JAR, WAR, or Docker images)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 226,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 228,
+      "Title": "Packaging dependencies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 226,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 229,
+      "Title": "Deployment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 230,
+      "Title": "Deploying applications to various environments (e.g., staging, production)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 229,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 231,
+      "Title": "Configuration management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 229,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 232,
+      "Title": "Documentation Generation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 233,
+      "Title": "Generating API documentation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 232,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 234,
+      "Title": "Creating user guides",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 232,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 235,
+      "Title": "Notification",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 236,
+      "Title": "Sending notifications on build status or events",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 235,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 237,
+      "Title": "Artifact Archiving",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 238,
+      "Title": "Archiving build artifacts for later use or distribution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 237,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 239,
+      "Title": "Environment Setup",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 240,
+      "Title": "Setting up the execution environment for the build",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 239,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 241,
+      "Title": "External Tool Integration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 242,
+      "Title": "Integrating with external tools or services (e.g., SonarQube, JUnit, Git)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 241,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 243,
+      "Title": "Script Execution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 244,
+      "Title": "Executing custom scripts or commands during the build",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 243,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 245,
+      "Title": "Code Signing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 246,
+      "Title": "Signing code or artifacts for security purposes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 245,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 247,
+      "Title": "Versioning",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 248,
+      "Title": "Managing version numbers or tags for the build",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 247,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 249,
+      "Title": "Build Cleanup",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 250,
+      "Title": "Cleaning up build artifacts or temporary files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 249,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 251,
+      "Title": "Publish",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 252,
+      "Title": "Publishing build artifacts or reports",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 251,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 253,
+      "Title": "Dependency Management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 254,
+      "Title": "Resolving and managing project dependencies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 253,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 255,
+      "Title": "Environment Variable Handling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 256,
+      "Title": "Manipulating environment variables within the build process",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 255,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 257,
+      "Title": "Pipeline Script",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 258,
+      "Title": "Scripted Pipeline",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 257,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 259,
+      "Title": "Declarative vs. Scripted syntax",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 258,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 260,
+      "Title": "Scripted Pipeline stages and steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 258,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 261,
+      "Title": "Groovy scripting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 258,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 262,
+      "Title": "Environment variables and parameters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 258,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 263,
+      "Title": "Error handling and exception handling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 258,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 264,
+      "Title": "Shared libraries",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 258,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 265,
+      "Title": "Declarative Pipeline",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 257,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 266,
+      "Title": "Declarative Pipeline syntax and structure",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 265,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 267,
+      "Title": "Stages and steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 265,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 268,
+      "Title": "Post-build actions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 265,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 269,
+      "Title": "Agent and environment configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 265,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 270,
+      "Title": "Input and approval handling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 265,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 271,
+      "Title": "Agent directives",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 265,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 272,
+      "Title": "Pipeline Syntax",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 257,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 273,
+      "Title": "Pipeline syntax elements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 272,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 274,
+      "Title": "Directives and steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 272,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 275,
+      "Title": "Syntax validation and script generation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 272,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 276,
+      "Title": "Conditional execution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 272,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 277,
+      "Title": "Looping and iteration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 272,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 278,
+      "Title": "Parallel execution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 272,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 279,
+      "Title": "Post-build actions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 272,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 280,
+      "Title": "Jenkinsfile",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 257,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 281,
+      "Title": "Jenkinsfile structure and syntax",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 280,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 282,
+      "Title": "Storing Jenkinsfile in SCM",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 280,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 283,
+      "Title": "Version control and code review",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 280,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 284,
+      "Title": "Branch and pull request integration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 280,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 285,
+      "Title": "Multi-branch Pipelines",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 280,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 286,
+      "Title": "Jenkinsfile best practices",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 280,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 287,
+      "Title": "Pipeline Tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 288,
+      "Title": "Jenkins Pipeline Plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 287,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 289,
+      "Title": "SCM integration plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 288,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 290,
+      "Title": "Build and test automation plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 288,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 291,
+      "Title": "Deployment and delivery plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 288,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 292,
+      "Title": "Notification and reporting plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 288,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 293,
+      "Title": "Security and authentication plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 288,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 294,
+      "Title": "Custom plugin development",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 288,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 295,
+      "Title": "Pipeline Visualization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 287,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 296,
+      "Title": "Pipeline visualization tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 295,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 297,
+      "Title": "Stage view and stage graph",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 295,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 298,
+      "Title": "Build history and status",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 295,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 299,
+      "Title": "Visualizing parallel execution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 295,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 300,
+      "Title": "Customizing visualization options",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 295,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 301,
+      "Title": "Extending visualization with plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 295,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 302,
+      "Title": "Pipeline Steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 303,
+      "Title": "Core Steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 302,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 304,
+      "Title": "Basic steps (e.g., echo, sh, sleep)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 303,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 305,
+      "Title": "File handling steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 303,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 306,
+      "Title": "Environment manipulation steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 303,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 307,
+      "Title": "Input and approval steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 303,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 308,
+      "Title": "SCM and Git-related steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 303,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 309,
+      "Title": "Build and test steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 303,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 310,
+      "Title": "Third-Party Steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 302,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 311,
+      "Title": "Steps provided by plugin integrations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 310,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 312,
+      "Title": "Docker-related steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 310,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 313,
+      "Title": "Cloud and infrastructure steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 310,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 314,
+      "Title": "Database and application-specific steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 310,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 316,
+      "Title": "Custom Steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 302,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 317,
+      "Title": "Creating custom pipeline steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 316,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 318,
+      "Title": "Reusing existing steps as building blocks",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 316,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 319,
+      "Title": "Packaging and distributing custom steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 316,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 320,
+      "Title": "Defining step parameters and return values",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 316,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 321,
+      "Title": "Documentation and versioning",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 316,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 322,
+      "Title": "Pipeline Libraries",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 7,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 323,
+      "Title": "Shared Libraries",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 322,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 324,
+      "Title": "Creating and configuring shared libraries",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 323,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 325,
+      "Title": "Defining reusable functions and utilities",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 323,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 326,
+      "Title": "Global and local libraries",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 323,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 327,
+      "Title": "Library versioning and dependency management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 323,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 328,
+      "Title": "Pipeline-specific library structures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 323,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 329,
+      "Title": "External Libraries",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 322,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 330,
+      "Title": "Using external libraries in Pipelines",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 329,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 331,
+      "Title": "Maven and Gradle dependencies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 329,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 332,
+      "Title": "Importing and referencing external libraries",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 329,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 333,
+      "Title": "Resolving library conflicts and versions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 329,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 334,
+      "Title": "Best practices for external library usage",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 329,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 335,
+      "Title": "Agent Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 336,
+      "Title": "Agent Connection",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 335,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 337,
+      "Title": "Setting up agent connection to Jenkins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 336,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 338,
+      "Title": "Managing agent availability and connectivity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 336,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 339,
+      "Title": "Agent Labels",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 335,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 340,
+      "Title": "Assigning labels to agents for categorization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 339,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 341,
+      "Title": "Label-based agent selection for job execution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 339,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 342,
+      "Title": "Agent Environment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 335,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 343,
+      "Title": "Defining agent-specific environment variables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 342,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 344,
+      "Title": "Configuring tools and dependencies on agents",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 342,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 345,
+      "Title": "Agent Provisioning",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 346,
+      "Title": "Master-Slave Setup",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 345,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 347,
+      "Title": "Configuring Jenkins master to manage agents",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 346,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 348,
+      "Title": "Establishing secure communication between master and agents",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 346,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 349,
+      "Title": "Cloud-Based Provisioning",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 345,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 350,
+      "Title": "Integrating Jenkins with cloud providers (e.g., AWS, GCP)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 349,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 351,
+      "Title": "Automating agent provisioning in cloud environments",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 349,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 352,
+      "Title": "Docker Containers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 345,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 353,
+      "Title": "Running Jenkins agents in Docker containers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 352,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 354,
+      "Title": "Containerizing build environments for reproducibility",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 352,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 355,
+      "Title": "Agent Security",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 356,
+      "Title": "Agent Authentication",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 355,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 357,
+      "Title": "Authenticating agents with Jenkins master",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 356,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 358,
+      "Title": "Configuring secure agent communication",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 356,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 359,
+      "Title": "Agent Authorization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 355,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 360,
+      "Title": "Setting up agent-specific permissions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 359,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 361,
+      "Title": "Restricting agent access to certain jobs or resources",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 359,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 362,
+      "Title": "Agent Security Best Practices",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 355,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 363,
+      "Title": "Implementing secure practices for agent management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 362,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 364,
+      "Title": "Managing agent security vulnerabilities",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 362,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 365,
+      "Title": "Agent Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 366,
+      "Title": "Agent Health Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 365,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 367,
+      "Title": "Monitoring agent status and availability",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 366,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 368,
+      "Title": "Detecting and resolving agent failures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 366,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 369,
+      "Title": "Agent Performance Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 365,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 370,
+      "Title": "Monitoring agent resource usage (CPU, memory)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 369,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 371,
+      "Title": "Identifying performance bottlenecks on agents",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 369,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 372,
+      "Title": "Agent Logs and Diagnostics",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 365,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 373,
+      "Title": "Collecting and analyzing agent logs for troubleshooting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 372,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 374,
+      "Title": "Configuring log rotation and retention policies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 372,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 375,
+      "Title": "Agent Scalability",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 8,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 376,
+      "Title": "Agent Load Balancing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 375,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 377,
+      "Title": "Distributing build tasks across multiple agents",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 376,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 378,
+      "Title": "Load balancing strategies and algorithms",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 376,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 379,
+      "Title": "Dynamic Agent Provisioning",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 375,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 380,
+      "Title": "Automatically provisioning agents based on build demand",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 379,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 381,
+      "Title": "Scaling agent capacity as per workload",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 379,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 382,
+      "Title": "Agent Elasticity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 375,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 383,
+      "Title": "Adding or removing agents dynamically based on workload",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 382,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 384,
+      "Title": "Auto-scaling agent resources as per build requirements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 382,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 385,
+      "Title": "Compiled code",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 386,
+      "Title": "Executable binaries",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 385,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 387,
+      "Title": "Compilation process",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 386,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 388,
+      "Title": "Object files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 386,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 389,
+      "Title": "Documentation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 390,
+      "Title": "User manuals",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 389,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 391,
+      "Title": "User guides",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 390,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 392,
+      "Title": "Tutorials",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 390,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 393,
+      "Title": "FAQs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 390,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 394,
+      "Title": "API documentation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 389,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 395,
+      "Title": "API reference documentation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 394,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 396,
+      "Title": "SDKs and libraries",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 394,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 397,
+      "Title": "Release notes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 389,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 398,
+      "Title": "Version history",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 397,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 399,
+      "Title": "New features",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 397,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 400,
+      "Title": "Bug fixes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 397,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 401,
+      "Title": "Test reports",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 402,
+      "Title": "Unit test reports",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 401,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 403,
+      "Title": "Test case results",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 402,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 404,
+      "Title": "Pass/fail status",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 402,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 405,
+      "Title": "Test coverage",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 402,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 406,
+      "Title": "Integration test reports",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 401,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 407,
+      "Title": "Test environment setup",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 406,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 408,
+      "Title": "Test data generation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 406,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 409,
+      "Title": "Configuration files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 410,
+      "Title": "Application configuration files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 409,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 411,
+      "Title": "Environment-specific settings",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 410,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 412,
+      "Title": "Security configurations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 410,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 413,
+      "Title": "Deployment packages",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 414,
+      "Title": "Deployable archives",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 413,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 415,
+      "Title": "Packaging formats (e.g., WAR, JAR)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 414,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 416,
+      "Title": "Compression algorithms",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 414,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 417,
+      "Title": "Container images",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 413,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 418,
+      "Title": "Docker images",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 417,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 419,
+      "Title": "Image registries",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 417,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 420,
+      "Title": "Data files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 421,
+      "Title": "Sample data",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 420,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 422,
+      "Title": "Example datasets",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 421,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 423,
+      "Title": "Mock data generation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 421,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 424,
+      "Title": "Resources",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 420,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 425,
+      "Title": "Images",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 424,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 426,
+      "Title": "Fonts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 424,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 427,
+      "Title": "Templates",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 424,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 428,
+      "Title": "Database scripts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 420,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 429,
+      "Title": "SQL scripts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 428,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 430,
+      "Title": "Schema definitions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 428,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 431,
+      "Title": "Release artifacts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 432,
+      "Title": "Installers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 431,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 433,
+      "Title": "Installation steps",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 432,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 434,
+      "Title": "Platform compatibility",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 432,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 435,
+      "Title": "Patches/updates",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 431,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 436,
+      "Title": "Patching process",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 435,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 437,
+      "Title": "Version control",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 435,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 438,
+      "Title": "Release notes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 431,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 439,
+      "Title": "Change log",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 438,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 440,
+      "Title": "Known issues",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 438,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 441,
+      "Title": "Source code",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 442,
+      "Title": "Source code files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 441,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 443,
+      "Title": "Programming languages",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 442,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 444,
+      "Title": "Version control systems",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 442,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 445,
+      "Title": "Version control metadata",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 441,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 446,
+      "Title": "Branches and tags",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 445,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 447,
+      "Title": "Commit history",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 445,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 448,
+      "Title": "Build scripts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 441,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 449,
+      "Title": "Build automation tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 448,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 450,
+      "Title": "Dependency management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 448,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 451,
+      "Title": "Views",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 452,
+      "Title": "List View",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 451,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 453,
+      "Title": "Customizing columns",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 454,
+      "Title": "Filtering and sorting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 455,
+      "Title": "Grouping and categorization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 456,
+      "Title": "Configuring view permissions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 457,
+      "Title": "Adding jobs to the view",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 458,
+      "Title": "Configuring view-specific settings",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 459,
+      "Title": "Using regular expressions for job inclusion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 460,
+      "Title": "Configuring view description and title",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 461,
+      "Title": "Configuring columns display options",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 462,
+      "Title": "Creating nested views",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 463,
+      "Title": "Configuring build status icons",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 464,
+      "Title": "Adding external links and widgets",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 465,
+      "Title": "Setting up view inheritance",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 466,
+      "Title": "Using folders with views",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 467,
+      "Title": "Configuring RSS and Atom feeds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 468,
+      "Title": "Using view templates",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 469,
+      "Title": "Defining view-specific triggers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 470,
+      "Title": "Customizing view URLs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 471,
+      "Title": "Applying regular expressions for job filters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 472,
+      "Title": "Security Realm",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 11,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 473,
+      "Title": "Jenkins Internal Database",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 472,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 474,
+      "Title": "User accounts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 473,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 475,
+      "Title": "Passwords and credentials",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 473,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 476,
+      "Title": "User groups and roles",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 473,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 477,
+      "Title": "User authentication methods",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 473,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 478,
+      "Title": "User registration and management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 473,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 479,
+      "Title": "User permissions and access levels",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 473,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 480,
+      "Title": "Global security settings",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 473,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 481,
+      "Title": "External User Directory (e.g., Active Directory)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 472,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 482,
+      "Title": "LDAP (Lightweight Directory Access Protocol)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 481,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 483,
+      "Title": "Single Sign-On (SSO)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 481,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 484,
+      "Title": "Federated Identity Providers (e.g., OAuth, SAML)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 481,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 485,
+      "Title": "Authorization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 11,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 486,
+      "Title": "Authorization Matrix",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 485,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 487,
+      "Title": "Matrix-based access control",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 486,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 488,
+      "Title": "Assigning permissions to specific users or user groups",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 486,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 489,
+      "Title": "Project-based Matrix Authorization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 485,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 490,
+      "Title": "Fine-grained access control at the project level",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 489,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 491,
+      "Title": "Assigning permissions to users or user groups for specific projects",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 489,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 492,
+      "Title": "Role-Based Authorization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 485,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 493,
+      "Title": "Defining and managing roles",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 492,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 494,
+      "Title": "Assigning roles to users or user groups",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 492,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 495,
+      "Title": "Assigning permissions to roles",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 492,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 496,
+      "Title": "Cloud-Based Authorization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 485,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 497,
+      "Title": "Access control for cloud resources (e.g., AWS, Azure)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 496,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 498,
+      "Title": "External Authorization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 485,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 499,
+      "Title": "Integration with external authorization systems (e.g., LDAP groups)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 498,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 500,
+      "Title": "Pipeline Authorization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 485,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 501,
+      "Title": "Defining permissions for Jenkins pipelines",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 500,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 502,
+      "Title": "Restricting access to certain stages or steps within a pipeline",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 500,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 503,
+      "Title": "Script-Based Authorization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 485,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 504,
+      "Title": "Using scripts to define custom authorization rules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 503,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 505,
+      "Title": "Plugin-Based Authorization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 485,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 506,
+      "Title": "Extending authorization capabilities using plugins",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 505,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 507,
+      "Title": "Agent/Node Authorization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 485,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 508,
+      "Title": "Controlling agent/node access and permissions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 507,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 509,
+      "Title": "Job/Build Authorization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 485,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 510,
+      "Title": "Granting or restricting access to specific jobs or build processes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 509,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 511,
+      "Title": "Folder-Based Authorization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 485,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 512,
+      "Title": "Managing access control at the folder level",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 511,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 513,
+      "Title": "Agent-to-Master Security",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 485,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 514,
+      "Title": "Securing communication between Jenkins agents and the master node",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 513,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 515,
+      "Title": "Project-based Roles",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 485,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 516,
+      "Title": "Defining and managing roles at the project level",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 515,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 517,
+      "Title": "Proxy-Based Authentication",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 485,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 518,
+      "Title": "Authenticating users through a reverse proxy or an authentication server",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 517,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 519,
+      "Title": "Agents/Nodes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 520,
+      "Title": "Master",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 519,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 521,
+      "Title": "Centralized control and coordination",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 520,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 522,
+      "Title": "Slave/Agent",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 519,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 523,
+      "Title": "Worker machines executing build tasks",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 522,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 524,
+      "Title": "Controller",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 519,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 525,
+      "Title": "Manages agents and their availability",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 524,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 526,
+      "Title": "Executor",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 519,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 527,
+      "Title": "Executes build jobs on agents",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 526,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 528,
+      "Title": "Availability",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 519,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 529,
+      "Title": "Agents\u0027 readiness and availability for executing builds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 528,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 530,
+      "Title": "Labels",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 519,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 531,
+      "Title": "Tagging agents for specific capabilities or job requirements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 530,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 532,
+      "Title": "Agent Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 519,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 533,
+      "Title": "Setting up agents, connecting to the master",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 532,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 534,
+      "Title": "Load Balancing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 519,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 535,
+      "Title": "Distributing build tasks across available agents",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 534,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 536,
+      "Title": "Agent Provisioning",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 519,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 537,
+      "Title": "Dynamically creating and removing agents",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 536,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 538,
+      "Title": "Scaling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 519,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 539,
+      "Title": "Increasing or decreasing the number of agents",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 538,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 540,
+      "Title": "Jenkins Controller",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 541,
+      "Title": "Master",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 540,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 542,
+      "Title": "Centralized control and management of distributed builds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 541,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 543,
+      "Title": "Communication",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 540,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 544,
+      "Title": "Communication between master and agents",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 543,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 545,
+      "Title": "Job Distribution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 540,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 546,
+      "Title": "Distributing jobs to available agents",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 545,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 547,
+      "Title": "Monitoring and Logging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 540,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 548,
+      "Title": "Monitoring the status and progress of builds on agents, logging and reporting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 547,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 549,
+      "Title": "Scheduling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 540,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 550,
+      "Title": "Determining which agents execute which jobs and when",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 549,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 551,
+      "Title": "Security and Authentication",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 540,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 552,
+      "Title": "Ensuring secure communication between master and agents, proper authentication and access",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 551,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 553,
+      "Title": "Networking",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 554,
+      "Title": "Networking Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 553,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 555,
+      "Title": "Configuring network settings for communication between master and agents",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 554,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 556,
+      "Title": "Firewalls and Security",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 553,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 557,
+      "Title": "Configuring firewalls and security settings for agent communication",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 556,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 558,
+      "Title": "Connectivity",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 553,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 559,
+      "Title": "Ensuring connectivity between master and agents",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 558,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 560,
+      "Title": "DNS Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 553,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 561,
+      "Title": "Configuring DNS settings for resolving agent hostnames",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 560,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 562,
+      "Title": "VPN and Proxy",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 553,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 563,
+      "Title": "Using VPN or proxy for secure communication between master and agents",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 562,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 564,
+      "Title": "Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 13,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 565,
+      "Title": "Build Status Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 564,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 566,
+      "Title": "Tracking the status of builds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 565,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 567,
+      "Title": "Build Logs Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 564,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 568,
+      "Title": "Viewing and analyzing build logs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 567,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 569,
+      "Title": "Resource Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 564,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 570,
+      "Title": "Monitoring system resource usage (CPU, memory, disk space, etc.)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 569,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 571,
+      "Title": "Performance Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 564,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 572,
+      "Title": "Monitoring build performance metrics (execution time, build duration, etc.)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 571,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 573,
+      "Title": "Notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 13,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 574,
+      "Title": "Email Notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 573,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 575,
+      "Title": "Configuring email notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 574,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 576,
+      "Title": "Instant Messaging Notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 573,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 577,
+      "Title": "Integrating Jenkins with chat platforms (Slack, Microsoft Teams, etc.)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 576,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 578,
+      "Title": "Webhook Notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 573,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 579,
+      "Title": "Receiving HTTP notifications from external systems",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 578,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 580,
+      "Title": "Custom Script Notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 573,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 581,
+      "Title": "Running custom scripts as notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 580,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 582,
+      "Title": "Plugin Notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 573,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 583,
+      "Title": "Utilizing Jenkins plugins for sending notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 582,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 584,
+      "Title": "Pipeline Notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 573,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 585,
+      "Title": "Configuring notifications within Jenkins pipelines",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 584,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 586,
+      "Title": "Conditional Notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 573,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 587,
+      "Title": "Specifying conditions for sending notifications (success, failure, specific events, etc.)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 586,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 588,
+      "Title": "Global Notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 573,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 589,
+      "Title": "Defining global notification settings that apply to all jobs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 588,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 590,
+      "Title": "Personal Notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 573,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 591,
+      "Title": "Configuring individual user notification preferences",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 590,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 592,
+      "Title": "Escalation Notifications",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 573,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 593,
+      "Title": "Implementing notification escalation mechanisms",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 592,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 594,
+      "Title": "Integration with External Monitoring Systems",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 573,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 595,
+      "Title": "Integrating Jenkins with external monitoring tools (Nagios, Prometheus, Grafana, etc.)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 594,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 596,
+      "Title": "Integration with Incident Management Systems",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 573,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 597,
+      "Title": "Integrating Jenkins with incident management systems (JIRA, ServiceNow, etc.)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 596,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 598,
+      "Title": "Alerting and Alert Management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 573,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 599,
+      "Title": "Setting up alerts for specific events or thresholds, and managing alerting configurations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 598,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 600,
+      "Title": "Auditing and Logging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 573,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 601,
+      "Title": "Logging and auditing notification events",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 600,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    }
+  ],
+  "NotesCollection": [
+    {
+      "NotesCollectionID": 1,
+      "Title": "Default Collection",
+      "Selected": true,
+      "ProjectFK": 1,
+      "Project": null,
+      "Note": []
+    }
+  ]
+}
