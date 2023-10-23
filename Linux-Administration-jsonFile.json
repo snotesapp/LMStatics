@@ -1,0 +1,4656 @@
+{
+  "ProjectID": 1,
+  "Name": "Linux Administration",
+  "Packets": [
+    {
+      "PacketID": 1,
+      "Title": "Linux Administration",
+      "Resume": null,
+      "Selected": true,
+      "ParentID": null,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 2,
+      "Title": "Linux kernel",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 3,
+      "Title": "File system",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 4,
+      "Title": "System services",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 5,
+      "Title": "Networking",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 6,
+      "Title": "Security",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 9,
+      "Title": "Shell scripting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 10,
+      "Title": "System monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 11,
+      "Title": "Backup and recovery",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 1,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 12,
+      "Title": "Process Management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 13,
+      "Title": "Scheduler",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 14,
+      "Title": "Process Scheduling Algorithms",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 13,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 15,
+      "Title": "Process Control Blocks (PCB)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 16,
+      "Title": "Context Switching",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 15,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 17,
+      "Title": "Signals",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 12,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 18,
+      "Title": "Signal Handling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 17,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 19,
+      "Title": "Memory Management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 20,
+      "Title": "Virtual Memory",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 19,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 21,
+      "Title": "Paging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 20,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 22,
+      "Title": "Physical Memory",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 19,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 23,
+      "Title": "Page Tables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 22,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 24,
+      "Title": "Swap Space",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 19,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 25,
+      "Title": "Swapping",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 24,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 26,
+      "Title": "File System",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 27,
+      "Title": "VFS (Virtual File System)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 26,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 28,
+      "Title": "Inodes and File Operations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 27,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 29,
+      "Title": "File Systems (ext4, xfs, etc.)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 26,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 30,
+      "Title": "Filesystem Hierarchy Standard (FHS)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 29,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 31,
+      "Title": "Device Drivers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 32,
+      "Title": "Block Devices",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 31,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 33,
+      "Title": "Block Device I/O",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 32,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 34,
+      "Title": "Character Devices",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 31,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 35,
+      "Title": "Character Device I/O",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 34,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 36,
+      "Title": "Network Stack",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 37,
+      "Title": "Networking Subsystem",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 36,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 38,
+      "Title": "TCP/IP Stack",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 37,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 39,
+      "Title": "Network Devices",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 36,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 40,
+      "Title": "Ethernet, Wi-Fi, etc.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 39,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 41,
+      "Title": "Socket API",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 36,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 42,
+      "Title": "Socket Programming",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 41,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 43,
+      "Title": "Kernel Modules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 44,
+      "Title": "Loadable Kernel Modules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 43,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 45,
+      "Title": "Module Loading and Unloading",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 44,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 46,
+      "Title": "Module Parameters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 43,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 47,
+      "Title": "Module Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 46,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 48,
+      "Title": "System Calls",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 49,
+      "Title": "File System Calls",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 48,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 50,
+      "Title": "open(), read(), write(), close(), etc.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 49,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 51,
+      "Title": "Process-related Calls",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 48,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 52,
+      "Title": "fork(), exec(), wait(), etc.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 51,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 53,
+      "Title": "Interrupt Handling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 54,
+      "Title": "Interrupt Request (IRQ)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 53,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 55,
+      "Title": "Interrupt Service Routines (ISR)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 54,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 56,
+      "Title": "Tasklets",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 53,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 57,
+      "Title": "Efficient Interrupt Handling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 56,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 58,
+      "Title": "Security",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 2,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 59,
+      "Title": "SELinux",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 58,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 60,
+      "Title": "Mandatory Access Control (MAC)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 59,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 61,
+      "Title": "AppArmor",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 58,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 62,
+      "Title": "Application Security Policies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 61,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 63,
+      "Title": "Disk Partitioning",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 64,
+      "Title": "Partition Tables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 63,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 65,
+      "Title": "Understanding partition tables (e.g., MBR, GPT)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 64,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 66,
+      "Title": "File System Types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 63,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 67,
+      "Title": "Ext2, Ext3, Ext4",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 66,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 68,
+      "Title": "XFS, Btrfs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 66,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 69,
+      "Title": "Swap partitions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 66,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 70,
+      "Title": "Logical Volumes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 63,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 71,
+      "Title": "LVM (Logical Volume Manager)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 70,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 72,
+      "Title": "Physical Volumes, Volume Groups",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 70,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 73,
+      "Title": "RAID Configurations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 63,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 74,
+      "Title": "RAID 0, 1, 5, 10",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 73,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 75,
+      "Title": "RAID levels and redundancy",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 73,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 76,
+      "Title": "File Systems",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 77,
+      "Title": "Directory Structure",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 76,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 78,
+      "Title": "/ (root), /home, /etc, etc.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 77,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 79,
+      "Title": "Mount Points",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 76,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 80,
+      "Title": "Mounting file systems",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 79,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 81,
+      "Title": "File Permissions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 76,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 82,
+      "Title": "chmod, chown, chgrp",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 81,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 83,
+      "Title": "Permission types (read, write, execute)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 81,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 84,
+      "Title": "Special permissions (setuid, setgid, sticky bit)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 81,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 85,
+      "Title": "umask",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 81,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 86,
+      "Title": "ACLs (Access Control Lists)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 76,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 87,
+      "Title": "Managing extended permissions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 86,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 88,
+      "Title": "Setting ACLs on files and directories",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 86,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 89,
+      "Title": "acl command",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 86,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 90,
+      "Title": "File System Hierarchy Standard (FHS)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 91,
+      "Title": "Standard Directories",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 90,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 92,
+      "Title": "/bin, /sbin, /lib, etc.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 91,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 93,
+      "Title": "Purpose of Directories",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 90,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 94,
+      "Title": "Understanding the role of /var, /tmp, /proc, etc.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 93,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 95,
+      "Title": "FHS compliance",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 93,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 96,
+      "Title": "File System Maintenance",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 97,
+      "Title": "Check and Repair",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 96,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 98,
+      "Title": "fsck command",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 97,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 99,
+      "Title": "Automatic file system checks at boot",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 97,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 100,
+      "Title": "Resize and Extend",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 96,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 101,
+      "Title": "resize2fs, lvextend",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 100,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 102,
+      "Title": "Expanding file systems",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 100,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 103,
+      "Title": "Quotas",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 96,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 104,
+      "Title": "Setting disk quotas",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 103,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 105,
+      "Title": "User and group quotas",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 103,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 106,
+      "Title": "Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 96,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 107,
+      "Title": "df, du, iostat, etc.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 106,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 108,
+      "Title": "Monitoring disk space usage",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 106,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 109,
+      "Title": "Monitoring disk I/O",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 106,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 120,
+      "Title": "File System Security",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 3,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 121,
+      "Title": "Encryption",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 120,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 122,
+      "Title": "dm-crypt, LUKS",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 121,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 123,
+      "Title": "Encrypting partitions and devices",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 121,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 124,
+      "Title": "File System Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 120,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 125,
+      "Title": "auditd, inotify",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 124,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 126,
+      "Title": "Monitoring file system events",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 124,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 127,
+      "Title": "SELinux and AppArmor",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 120,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 128,
+      "Title": "Mandatory Access Control (MAC)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 129,
+      "Title": "Enforcing security policies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 127,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 130,
+      "Title": "Secure Deletion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 120,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 131,
+      "Title": "shred, secure-delete tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 130,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 132,
+      "Title": "Properly erasing sensitive data",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 130,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 133,
+      "Title": "Init System",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 134,
+      "Title": "SysVinit",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 133,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 135,
+      "Title": "Understanding runlevels and init scripts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 134,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 136,
+      "Title": "Managing services using service and chkconfig commands",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 134,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 137,
+      "Title": "Runlevel configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 134,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 138,
+      "Title": "systemd",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 133,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 139,
+      "Title": "Service units and targets",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 138,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 140,
+      "Title": "systemctl commands for service management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 138,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 141,
+      "Title": "Journal logging and analysis",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 138,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 142,
+      "Title": "Package Management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 143,
+      "Title": "Package Managers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 142,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 144,
+      "Title": "Package installation, removal, and updates",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 143,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 145,
+      "Title": "Dependency resolution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 143,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 146,
+      "Title": "Package query and verification",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 143,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 147,
+      "Title": "Package Formats",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 142,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 148,
+      "Title": "RPM (Red Hat Package Manager)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 147,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 149,
+      "Title": "DEB (Debian Package)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 147,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 150,
+      "Title": "Understanding package archives",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 147,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 151,
+      "Title": "User and Group Management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 152,
+      "Title": "Users and Groups",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 151,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 153,
+      "Title": "User creation, modification, and deletion",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 152,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 154,
+      "Title": "Group administration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 152,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 155,
+      "Title": "Password policies and authentication",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 152,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 170,
+      "Title": "Security",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 171,
+      "Title": "Permissions and Ownership",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 170,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 172,
+      "Title": "File and directory permissions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 171,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 173,
+      "Title": "Changing ownership and permissions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 171,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 174,
+      "Title": "Special permissions (suid, sgid, sticky bit)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 171,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 175,
+      "Title": "SELinux/AppArmor",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 170,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 176,
+      "Title": "Mandatory access control",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 175,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 177,
+      "Title": "SELinux modes and contexts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 175,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 178,
+      "Title": "AppArmor profiles",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 175,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 179,
+      "Title": "Logging and Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 180,
+      "Title": "Logging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 179,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 181,
+      "Title": "Syslog and journald concepts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 180,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 182,
+      "Title": "Log rotation and management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 180,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 183,
+      "Title": "Log analysis and troubleshooting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 180,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 184,
+      "Title": "Monitoring Tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 179,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 185,
+      "Title": "top, htop, and atop for process monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 184,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 186,
+      "Title": "ps command and its options",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 184,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 187,
+      "Title": "Performance monitoring and tuning",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 184,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 193,
+      "Title": "System Recovery",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 194,
+      "Title": "GRUB and bootloader configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 193,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 195,
+      "Title": "Restoring from backups",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 193,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 196,
+      "Title": "System rescue and emergency modes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 193,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 197,
+      "Title": "Kernel Management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 198,
+      "Title": "Kernel Parameters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 197,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 199,
+      "Title": "Understanding and modifying kernel parameters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 198,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 200,
+      "Title": "sysctl for runtime kernel parameter changes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 198,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 201,
+      "Title": "Kernel module management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 198,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 202,
+      "Title": "Virtualization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 203,
+      "Title": "Virtualization Technologies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 202,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 204,
+      "Title": "KVM/QEMU basics",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 203,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 205,
+      "Title": "Containers (Docker, Podman)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 203,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 206,
+      "Title": "Hypervisors and virtual machines",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 203,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 207,
+      "Title": "Automation and Scripting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 4,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 208,
+      "Title": "Shell Scripting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 207,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 209,
+      "Title": "Bash scripting basics",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 208,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 210,
+      "Title": "Writing and executing shell scripts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 208,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 211,
+      "Title": "Automation with cron jobs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 208,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 212,
+      "Title": "Configuration Management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 207,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 213,
+      "Title": "Ansible and Puppet concepts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 212,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 214,
+      "Title": "Infrastructure as Code (IaC)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 212,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 215,
+      "Title": "Automating system configurations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 212,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 216,
+      "Title": "Network Interfaces",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 217,
+      "Title": "Interface Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 216,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 218,
+      "Title": "Configuring IP addresses",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 219,
+      "Title": "Managing network interfaces",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 220,
+      "Title": "Enabling/Disabling interfaces",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 217,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 221,
+      "Title": "Routing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 222,
+      "Title": "Static Routing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 221,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 223,
+      "Title": "Configuring static routes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 222,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 224,
+      "Title": "Understanding routing tables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 222,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 225,
+      "Title": "Troubleshooting routing issues",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 222,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 226,
+      "Title": "Dynamic Routing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 221,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 227,
+      "Title": "Implementing dynamic routing protocols (e.g., OSPF, BGP)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 226,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 228,
+      "Title": "Monitoring and adjusting routing protocol parameters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 226,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 229,
+      "Title": "Route redistribution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 226,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 230,
+      "Title": "DNS (Domain Name System)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 231,
+      "Title": "DNS Configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 230,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 232,
+      "Title": "Configuring DNS servers",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 231,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 233,
+      "Title": "Setting up domain records (A, CNAME, MX)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 231,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 234,
+      "Title": "Troubleshooting DNS issues",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 231,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 235,
+      "Title": "Firewalls",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 236,
+      "Title": "Firewall Rules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 235,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 237,
+      "Title": "Creating and managing iptables rules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 236,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 238,
+      "Title": "Configuring firewalld",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 236,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 239,
+      "Title": "Stateful vs Stateless filtering",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 236,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 240,
+      "Title": "Network Services",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 241,
+      "Title": "DHCP (Dynamic Host Configuration Protocol)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 240,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 242,
+      "Title": "Configuring DHCP servers and clients",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 241,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 243,
+      "Title": "Lease management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 241,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 244,
+      "Title": "Troubleshooting DHCP issues",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 241,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 245,
+      "Title": "NTP (Network Time Protocol)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 240,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 246,
+      "Title": "Synchronizing system clocks",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 245,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 247,
+      "Title": "NTP server configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 245,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 248,
+      "Title": "Troubleshooting time synchronization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 245,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 249,
+      "Title": "Network Security",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 250,
+      "Title": "SSL/TLS",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 249,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 251,
+      "Title": "Implementing SSL/TLS for secure communication",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 250,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 252,
+      "Title": "Certificate management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 250,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 253,
+      "Title": "Common SSL/TLS vulnerabilities",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 250,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 254,
+      "Title": "VPN (Virtual Private Network)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 249,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 255,
+      "Title": "Setting up VPNs (e.g., OpenVPN, IPSec)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 254,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 256,
+      "Title": "Managing VPN connections",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 254,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 257,
+      "Title": "Troubleshooting VPN issues",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 254,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 258,
+      "Title": "Monitoring and Troubleshooting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 259,
+      "Title": "Network Monitoring Tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 258,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 260,
+      "Title": "Using tools like Wireshark, tcpdump",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 259,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 261,
+      "Title": "SNMP for monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 259,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 262,
+      "Title": "Log analysis and interpretation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 259,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 263,
+      "Title": "Troubleshooting Techniques",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 258,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 264,
+      "Title": "Analyzing network traffic patterns",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 263,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 265,
+      "Title": "Identifying and resolving connectivity issues",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 263,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 266,
+      "Title": "Performance monitoring and optimization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 263,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 267,
+      "Title": "Network File Sharing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 5,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 268,
+      "Title": "NFS (Network File System)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 267,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 269,
+      "Title": "Configuring NFS exports",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 268,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 270,
+      "Title": "Mounting NFS shares",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 268,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 271,
+      "Title": "Securing NFS",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 268,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 272,
+      "Title": "Samba",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 267,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 273,
+      "Title": "Setting up Samba shares",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 272,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 274,
+      "Title": "Configuring user access",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 272,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 275,
+      "Title": "Troubleshooting Samba issues",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 272,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 276,
+      "Title": "Authentication",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 277,
+      "Title": "Password Policies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 276,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 278,
+      "Title": "Password hashing algorithms",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 277,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 279,
+      "Title": "Account lockout thresholds",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 277,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 280,
+      "Title": "Password salting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 277,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 281,
+      "Title": "Password policy enforcement",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 277,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 282,
+      "Title": "Biometric authentication",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 277,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 283,
+      "Title": "One-time passwords (OTP)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 277,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 284,
+      "Title": "Credential caching and management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 277,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 285,
+      "Title": "Access Control",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 286,
+      "Title": "File Permissions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 285,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 287,
+      "Title": "ACLs (Access Control Lists)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 286,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 288,
+      "Title": "umask and default permissions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 286,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 289,
+      "Title": "chroot environments",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 286,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 290,
+      "Title": "SELinux/AppArmor",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 285,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 291,
+      "Title": "Context-based policies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 290,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 292,
+      "Title": "Booleans and policy modules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 290,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 293,
+      "Title": "Seccomp (Secure Computing Mode)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 290,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 294,
+      "Title": "MAC (Mandatory Access Control)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 290,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 295,
+      "Title": "Network Security",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 296,
+      "Title": "Firewalls",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 295,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 297,
+      "Title": "Stateful vs. stateless firewalls",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 296,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 298,
+      "Title": "iptables and nftables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 296,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 299,
+      "Title": "Application-layer filtering",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 296,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 300,
+      "Title": "VPN",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 295,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 301,
+      "Title": "IPsec and OpenVPN",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 300,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 302,
+      "Title": "VPN protocols (PPTP, L2TP, etc.)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 300,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 303,
+      "Title": "VPN tunneling and encapsulation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 300,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 304,
+      "Title": "SSH",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 295,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 305,
+      "Title": "SSH key management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 304,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 306,
+      "Title": "Port forwarding and tunneling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 304,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 307,
+      "Title": "SSH protocol versions and configurations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 304,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 308,
+      "Title": "Logging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 309,
+      "Title": "System Logs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 308,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 310,
+      "Title": "syslog and rsyslog",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 309,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 311,
+      "Title": "systemd journal",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 309,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 312,
+      "Title": "Audit rules and syntax",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 309,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 313,
+      "Title": "Audit log analysis and correlation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 309,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 314,
+      "Title": "Centralized logging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 309,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 315,
+      "Title": "Updates",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 316,
+      "Title": "Package Management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 315,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 317,
+      "Title": "Dependency resolution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 316,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 318,
+      "Title": "GPG package signing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 316,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 319,
+      "Title": "Kernel Updates",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 315,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 320,
+      "Title": "Live patching",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 319,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 321,
+      "Title": "GRUB configuration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 319,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 322,
+      "Title": "Rollback procedures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 319,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 323,
+      "Title": "Encryption",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 324,
+      "Title": "Disk Encryption",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 323,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 325,
+      "Title": "VeraCrypt and other disk encryption tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 324,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 326,
+      "Title": "Communication Encryption",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 323,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 327,
+      "Title": "TLS/SSL best practices",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 326,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 328,
+      "Title": "Perfect forward secrecy (PFS)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 326,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 329,
+      "Title": "Certificate authorities (CA) and trust",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 326,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 330,
+      "Title": "Filesystem Encryption",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 323,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 331,
+      "Title": "dm-crypt and LUKS",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 330,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 332,
+      "Title": "Encrypting home directories",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 330,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 333,
+      "Title": "Intrusion Detection and Prevention",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 6,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 334,
+      "Title": "IDS/IPS",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 333,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 335,
+      "Title": "Snort and Suricata",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 334,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 336,
+      "Title": "Network-based vs. host-based IDS/IPS",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 334,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 337,
+      "Title": "HIDS",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 333,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 338,
+      "Title": "AIDE and Tripwire",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 337,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 339,
+      "Title": "Log analysis and correlation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 337,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 340,
+      "Title": "Incident response procedures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 337,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 432,
+      "Title": "Performance Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 433,
+      "Title": "CPU Usage",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 432,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 434,
+      "Title": "Understanding CPU utilization metrics such as user, system, and idle time.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 433,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 435,
+      "Title": "Interpreting load averages.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 433,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 436,
+      "Title": "Memory Usage",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 432,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 437,
+      "Title": "Analyzing memory utilization, including free, used, and cached memory.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 436,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 438,
+      "Title": "Identifying memory leaks.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 436,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 439,
+      "Title": "Disk I/O",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 432,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 440,
+      "Title": "Monitoring read and write operations.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 439,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 441,
+      "Title": "Identifying disk bottlenecks.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 439,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 442,
+      "Title": "Network Usage",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 432,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 443,
+      "Title": "Tracking network traffic and bandwidth usage.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 442,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 444,
+      "Title": "Analyzing network latency.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 442,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 445,
+      "Title": "System Resource Utilization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 446,
+      "Title": "Process Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 445,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 447,
+      "Title": "Viewing running processes.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 446,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 448,
+      "Title": "Managing process priority and affinity.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 446,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 449,
+      "Title": "Service Status",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 445,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 450,
+      "Title": "Checking the status of system services.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 449,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 451,
+      "Title": "Restarting and managing services.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 449,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 452,
+      "Title": "Log Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 453,
+      "Title": "System Logs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 454,
+      "Title": "Analyzing system logs for errors and warnings.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 453,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 455,
+      "Title": "Troubleshooting issues using log files.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 453,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 456,
+      "Title": "Application Logs",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 452,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 457,
+      "Title": "Monitoring logs generated by specific applications.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 456,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 458,
+      "Title": "Configuring log rotation.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 456,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 459,
+      "Title": "Security Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 460,
+      "Title": "User Authentication",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 459,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 461,
+      "Title": "Reviewing login history.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 460,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 462,
+      "Title": "Managing user access and permissions.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 460,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 463,
+      "Title": "Firewall Status",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 459,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 464,
+      "Title": "Checking firewall rules and configurations.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 463,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 465,
+      "Title": "Monitoring for suspicious network activity.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 463,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 466,
+      "Title": "Health and Diagnostics",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 467,
+      "Title": "System Health Checks",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 466,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 468,
+      "Title": "Performing system health assessments.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 467,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 469,
+      "Title": "Setting up automated health checks.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 467,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 470,
+      "Title": "Diagnosing Hardware Failures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 466,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 471,
+      "Title": "Identifying hardware issues using diagnostic tools.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 470,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 472,
+      "Title": "Monitoring hardware health.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 470,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 473,
+      "Title": "Automation and Scripting",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 10,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 474,
+      "Title": "Scripted Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 473,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 475,
+      "Title": "Creating custom scripts for monitoring.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 474,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 476,
+      "Title": "Automating routine tasks using scripts.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 474,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 477,
+      "Title": "Configuration Management",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 473,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 478,
+      "Title": "Implementing configuration changes systematically.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 477,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 479,
+      "Title": "Version control for configurations.",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 477,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 480,
+      "Title": "Backup",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 11,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 481,
+      "Title": "Data Selection",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 480,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 482,
+      "Title": "Identifying critical data",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 481,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 483,
+      "Title": "Backup Types",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 480,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 484,
+      "Title": "Full backup: Entire data backup",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 483,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 485,
+      "Title": "Incremental backup: Backing up changes since last backup",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 483,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 486,
+      "Title": "Backup Methods",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 480,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 487,
+      "Title": "File-based backup",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 486,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 488,
+      "Title": "Image-based backup",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 486,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 489,
+      "Title": "Backup Schedules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 480,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 490,
+      "Title": "Regular schedules",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 489,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 491,
+      "Title": "Event-triggered backups",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 489,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 492,
+      "Title": "Recovery",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 11,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 493,
+      "Title": "Data Restoration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 492,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 494,
+      "Title": "Point-in-time recovery",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 493,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 495,
+      "Title": "Bare-metal recovery",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 493,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 496,
+      "Title": "Recovery Strategies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 492,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 497,
+      "Title": "Local recovery",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 496,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 498,
+      "Title": "Offsite recovery",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 496,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 499,
+      "Title": "Disaster Recovery",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 492,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 500,
+      "Title": "Planning for system-wide failures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 499,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 501,
+      "Title": "Offsite backup storage",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 499,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 502,
+      "Title": "Monitoring and Testing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 11,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 503,
+      "Title": "Backup Monitoring",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 502,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 504,
+      "Title": "Log analysis",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 503,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 505,
+      "Title": "Automated alerts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 503,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 506,
+      "Title": "Testing and Validation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 502,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 507,
+      "Title": "Regular recovery drills",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 506,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 508,
+      "Title": "Integrity checks",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 506,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 509,
+      "Title": "Documentation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 11,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 510,
+      "Title": "Backup Documentation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 509,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 511,
+      "Title": "Detailed backup procedures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 510,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 512,
+      "Title": "Recovery Documentation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 509,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 513,
+      "Title": "Step-by-step recovery guides",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 512,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 514,
+      "Title": "Security",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 11,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 515,
+      "Title": "Access Controls",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 514,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 516,
+      "Title": "Role-based access control",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 515,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 517,
+      "Title": "Encryption",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 514,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 518,
+      "Title": "Data encryption during backup",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 517,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 519,
+      "Title": "Authentication",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 514,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 520,
+      "Title": "Secure access to backup tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 519,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 521,
+      "Title": "Variables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 528,
+      "Title": "Assignment",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 521,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 529,
+      "Title": "Variable naming conventions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 528,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 530,
+      "Title": "Variable types (local, environment, global)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 528,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 531,
+      "Title": "Variable scope",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 528,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 532,
+      "Title": "Special variables (e.g., $0, $#, $@)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 528,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 533,
+      "Title": "Variable expansion and substitution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 528,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 534,
+      "Title": "Control Structures",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 535,
+      "Title": "Conditional",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 534,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 536,
+      "Title": "if, elif, else statements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 535,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 537,
+      "Title": "Case statements",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 535,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 538,
+      "Title": "Loops",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 534,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 539,
+      "Title": "for, while, until loops",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 538,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 540,
+      "Title": "Loop control statements (break, continue)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 538,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 541,
+      "Title": "Functions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 542,
+      "Title": "Declaration",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 541,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 543,
+      "Title": "Function syntax",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 542,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 544,
+      "Title": "Parameters",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 541,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 545,
+      "Title": "Passing arguments to functions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 544,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 546,
+      "Title": "Return values",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 541,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 547,
+      "Title": "Returning values from functions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 546,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 548,
+      "Title": "Input/Output",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 549,
+      "Title": "Standard streams",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 548,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 550,
+      "Title": "stdin, stdout, stderr",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 549,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 551,
+      "Title": "Redirection",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 548,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 552,
+      "Title": "Redirecting input and output",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 551,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 553,
+      "Title": "Pipes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 548,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 554,
+      "Title": "Pipe concept and usage",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 553,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 555,
+      "Title": "Command substitution",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 548,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 556,
+      "Title": "Substituting command output in a variable",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 555,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 557,
+      "Title": "Error Handling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 558,
+      "Title": "Exit codes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 557,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 559,
+      "Title": "Exit status and error codes",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 558,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 560,
+      "Title": "Error handling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 557,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 561,
+      "Title": "Trap command for signal handling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 560,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 562,
+      "Title": "File Operations",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 563,
+      "Title": "File reading",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 562,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 564,
+      "Title": "Reading from files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 563,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 565,
+      "Title": "File writing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 562,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 566,
+      "Title": "Writing to files",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 565,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 567,
+      "Title": "File permissions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 562,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 568,
+      "Title": "chmod and chown commands",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 567,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 569,
+      "Title": "Text Processing",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 570,
+      "Title": "Text manipulation",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 569,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 571,
+      "Title": "String manipulation (e.g., substring, length)",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 570,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 572,
+      "Title": "Pattern matching",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 569,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 573,
+      "Title": "Regular expressions",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 572,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 574,
+      "Title": "Scripting Tools",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 575,
+      "Title": "Shebang",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 574,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 576,
+      "Title": "Understanding and using shebang",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 575,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 577,
+      "Title": "Command-line arguments",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 574,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 578,
+      "Title": "Parsing and using command-line arguments",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 577,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 579,
+      "Title": "Environment variables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 574,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 580,
+      "Title": "Working with environment variables",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 579,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 581,
+      "Title": "Debugging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 582,
+      "Title": "Echo and Print",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 581,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 583,
+      "Title": "Using echo and print for debugging",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 582,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 584,
+      "Title": "Debugging commands",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 581,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 585,
+      "Title": "set, shopt, and other debugging commands",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 584,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 586,
+      "Title": "Best Practices",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 9,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 587,
+      "Title": "Code structure",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 586,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 588,
+      "Title": "Indentation, commenting, and readability",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 587,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 589,
+      "Title": "Script organization",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 586,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 590,
+      "Title": "Modular and reusable scripts",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 589,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 591,
+      "Title": "Error handling",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 586,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    },
+    {
+      "PacketID": 592,
+      "Title": "Robust error handling strategies",
+      "Resume": null,
+      "Selected": false,
+      "ParentID": 591,
+      "ProjectFK": 1,
+      "Project": null,
+      "NotePackets": null
+    }
+  ],
+  "NotesCollection": [
+    {
+      "NotesCollectionID": 1,
+      "Title": "Default Collection",
+      "Selected": true,
+      "ProjectFK": 1,
+      "Project": null,
+      "Note": []
+    }
+  ]
+}
